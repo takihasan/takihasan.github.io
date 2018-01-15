@@ -1,0 +1,10 @@
+# Site settings
+title: Tushar Nagarajan
+baseurl: "" # the subpath of your site, e.g. /blog/
+github_username: tushar-n
+
+# Build settings
+markdown: kramdown
+
+# Other options
+excerpt_separator: "<!--more-->"
