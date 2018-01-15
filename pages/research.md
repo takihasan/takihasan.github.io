@@ -33,7 +33,7 @@ This project explored the hypothesis that background information (in the form of
 *Indian Institute of Science, Jun 2015 – Jul 2016*  
 There is a pressing need for new therapeutics to combat multi-drug and carbapenem-resistant bacterial pathogens. We use an LSTM language model to understand the underlying grammar, i.e. the arrangement and frequencies of amino acid residues, in known antimicrobial peptide sequences. According to the output of our LSTM network, we synthesized 10 peptides and tested them against known bacterial pathogens. All of these peptides displayed broad-spectrum antimicrobial activity, the two most effective ones displaying activity against multidrugresistant (MDR) strains.  
 
-**JBC 2017 [[Paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)**
+**JBC 2017 [[Paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf) [[Code]](https://github.com/Tushar-N/amp-lm)**
 </td>
 </tr>
 
