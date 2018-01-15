@@ -58,3 +58,28 @@ $on-laptop:        950px;
         "syntax-highlighting",
 	"fancy-image"
 ;
+
+
+// scrollbar
+.events {
+	height: 90px;
+    overflow: auto;
+}
+
+.container {
+    height: 105px;
+}
+
+// 30-70 table
+.researchtable {
+    border-collapse: collapse;
+}
+
+.researchtable th, .researchtable td {
+    border-bottom: 1px solid;
+    padding: 8px;
+}
+
+.researchtable td.img {
+    width: 30%;
+}
