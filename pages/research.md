@@ -10,7 +10,9 @@
 <td markdown="span">
 **Dynamic Inference Paths in ResNets**  
 *IBM Research, Summer 2017*  
-The success of very deep convolutional neural networks is limited by their high computational cost. In this project we learn to dynamically choose which blocks of a ResNet to execute during inference so as to best reduce total computation without degrading prediction accuracy. Built upon a ResNet-101 model, our method achieves a speedup of 20% on average, going as high as 36% for some images, while maintaining the same 76.4% top-1 accuracy on ImageNet.
+The success of very deep convolutional neural networks is limited by their high computational cost. In this project we learn to dynamically choose which blocks of a ResNet to execute during inference so as to best reduce total computation without degrading prediction accuracy. Built upon a ResNet-101 model, our method achieves a speedup of 20% on average, going as high as 36% for some images, while maintaining the same 76.4% top-1 accuracy on ImageNet.  
+
+**arXiv [[Paper]](https://arxiv.org/pdf/1711.08393.pdf)**
 </td>
 </tr>
 
