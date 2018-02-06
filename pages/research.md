@@ -12,7 +12,7 @@
 *IBM Research, Summer 2017*  
 The success of very deep convolutional neural networks is limited by their high computational cost. In this project we learn to dynamically choose which blocks of a ResNet to execute during inference so as to best reduce total computation without degrading prediction accuracy. Built upon a ResNet-101 model, our method achieves a speedup of 20% on average, going as high as 36% for some images, while maintaining the same 76.4% top-1 accuracy on ImageNet.  
 
-**arXiv [[Paper]](https://arxiv.org/pdf/1711.08393.pdf)**
+**arXiv [[Paper]](https://arxiv.org/pdf/1711.08393.pdf) [[Code]](https://github.com/Tushar-N/blockdrop)**
 </td>
 </tr>
 
@@ -24,7 +24,7 @@ The success of very deep convolutional neural networks is limited by their high 
 *Indian Institute of Science, Jun 2015 – Jul 2016*  
 This project explored the hypothesis that background information (in the form of verb and entity similarities) acts as intelligent regularizers for the task of relation extraction. This was cast as a multi-task learning problem where along with predicting the relations, the background information was explicitly modeled for pairs of sentences.  
 
-**ACL 2017 Workshop [[Paper]](https://arxiv.org/pdf/1710.09942.pdf) [[Code]](https://github.com/Tushar-N/blockdrop)**
+**ACL 2017 Workshop [[Paper]](https://arxiv.org/pdf/1710.09942.pdf)**
 </td>
 </tr>
 
