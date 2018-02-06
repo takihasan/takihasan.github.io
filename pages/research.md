@@ -24,7 +24,7 @@ The success of very deep convolutional neural networks is limited by their high 
 *Indian Institute of Science, Jun 2015 – Jul 2016*  
 This project explored the hypothesis that background information (in the form of verb and entity similarities) acts as intelligent regularizers for the task of relation extraction. This was cast as a multi-task learning problem where along with predicting the relations, the background information was explicitly modeled for pairs of sentences.  
 
-**ACL 2017 Workshop [[Paper]](https://arxiv.org/pdf/1710.09942.pdf)**
+**ACL 2017 Workshop [[Paper]](https://arxiv.org/pdf/1710.09942.pdf) [[Code]](https://github.com/Tushar-N/blockdrop)**
 </td>
 </tr>
 
