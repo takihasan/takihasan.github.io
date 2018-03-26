@@ -2,7 +2,8 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
-- Dec 17: Our work on Computational Antimicrobial Peptide Design is accepted at JBC. [[paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf) [[code]](https://github.com/Tushar-N/amp-lm)
+- Mar 18: Our work on Dynamic Inference Paths in ResNets is accepted at CVPR 2018. [[paper]](https://arxiv.org/pdf/1711.08393.pdf) [[code]](https://github.com/Tushar-N/blockdrop)
+- Dec 17: Our work on Computational Antimicrobial Peptide Design is accepted at JBC 2017. [[paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf) [[code]](https://github.com/Tushar-N/amp-lm)
 - Aug 17: Completed a wonderful internship at IBM Research. Thanks Bhatta and Rogerio!
 - Jul 17: Sharmistha presents our work on Coupling Constraints for Relation Extraction at ACL 2017 (workshop). [[paper]](https://arxiv.org/pdf/1710.09942.pdf)
 - May 17: Started an internship at IBM Research's Vision & Multimedia group, working with [Bishwaranjan Bhattacharjee](https://www.research.ibm.com/people/b/bhatta/index.html) and [Dr. Rogerio Feris](http://rogerioferis.com/)

@@ -37,7 +37,7 @@ MSc. Physics (dual degree)
 *Research Intern | Dr. Rogerio Feris | IBM Research, Yorktown Heights*  
 · Trained an RL based agent to drop blocks of a ResNet conditioned on the input image  
 · Achieves 20%-36% speedup with no loss of accuracy  
-· Paper currently under review for CVPR 2018  
+· Paper accepted to CVPR 2018 (Spotlight) [[link]](https://arxiv.org/pdf/1711.08393.pdf)  
 
 **Neural Models for Relation Extraction with Background Knowledge** | Jun 2015 – Jul 2016  
 *Research Intern | Dr. Partha Talukdar | Indian Institute of Science, Bangalore*  
@@ -49,7 +49,7 @@ MSc. Physics (dual degree)
 *Collaboration with Dept. of Biochemistry | Indian Institute of Science, Bangalore*  
 · Designed protein sequences that exhibit antimicrobial properties using residue level recurrent neural networks (in Torch)  
 · Synthesized the designed peptide sequences and performed biochemical tests for antimicrobial activity.  
-· Published in JBC, 2017 [[link]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)
+· Published in JBC 2017 [[link]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)
 
 
 # Additional Experience
