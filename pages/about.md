@@ -1,8 +1,18 @@
 <img src="images/face.jpg" style="width: 180px; float: right" hspace="20"/>
 
-I am a PhD student in the Department of Computer Science at UT Austin, working with [Dr. Kristen Grauman](https://www.cs.utexas.edu/~grauman/). I am broadly interested in Computer Vision and NLP, and the intersection between the two fields. 
+I am a PhD student in the Department of Computer Science at UT Austin, advised by [Dr. Kristen Grauman](https://www.cs.utexas.edu/~grauman/). I am broadly interested in Computer Vision and NLP, and the intersection between the two fields. 
 
 Before coming to UT, I was an intern at [MALL Lab](https://malllabiisc.github.io/), IISc, working with [Dr. Partha Talukdar](http://talukdar.net/). I completed my B.E. in Computer Science from BITS Goa.
 
-Contact: tushar[at]cs.utexas.edu  
-[CV](cv/)
+<!-- Icons from fontawesome (Make less ugly later) -->
+<a style="color:black; text-decoration: none;"
+href="https://github.com/tushar-n">
+<i class="fab fa-github" style="font-size:48px" href="https://github.com/tushar-n"></i>
+<a style="color:black; text-decoration: none;"
+href="https://www.linkedin.com/in/tushar-nagarajan">
+<i class="fab fa-linkedin" style="font-size:48px;"></i>
+<a style="color:black; text-decoration: none;"
+href="https://scholar.google.com/citations?user=KAKqSwIAAAAJ&hl=en">
+<i class="ai ai-google-scholar" style="font-size:48px;"></i>
+
+Contact: tushar[at]cs.utexas.edu

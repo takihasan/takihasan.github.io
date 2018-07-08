@@ -2,6 +2,8 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
+- Jul 18: Our work on Attributes as Operators is accepted at ECCV 2018. [[paper]](https://arxiv.org/pdf/1803.09851.pdf) [[code]](https://github.com/Tushar-N/attributes-as-operators)
+- May 18: Interning at Facebook AI Research this summer
 - Mar 18: Our work on Dynamic Inference Paths in ResNets is accepted at CVPR 2018. [[paper]](https://arxiv.org/pdf/1711.08393.pdf) [[code]](https://github.com/Tushar-N/blockdrop)
 - Dec 17: Our work on Computational Antimicrobial Peptide Design is accepted at JBC 2017. [[paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf) [[code]](https://github.com/Tushar-N/amp-lm)
 - Aug 17: Completed a wonderful internship at IBM Research. Thanks Bhatta and Rogerio!
