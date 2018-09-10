@@ -7,12 +7,12 @@ permalink: /cv/
 # Education  
 ---
 **The University of Texas at Austin**  
-PhD. Computer Science | 2016 - present
+PhD. Computer Science | 2016 - present  
 *Coursework: Visual Recognition, Deep Learning, Natural Language Processing, Robot Learning*
 
 
 **BITS Pilani, Goa Campus, India**  
-BE. Computer Science | 2011 - 2016
+BE. Computer Science | 2011 - 2016  
 MSc. Physics (dual degree)
 
 
