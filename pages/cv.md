@@ -31,6 +31,7 @@ MSc. Physics (dual degree)
 - Deepesh Nagarajan, **Tushar Nagarajan**, Natasha Roy, Omkar Kulkarni, Sathyabaarathi Ravichandran, Madhulika Mishra, Dipshikha Chakravortty and Nagasuma Chandra, "Computational antimicrobial peptide design and evaluation against multidrug-resistant clinical isolates of bacteria", JBC 2017
 
 # Professional Service
+---
 Reviewer for CVPR 19, ECCV 18, ICCV 19, BMVC 19
 
 # Teaching Experience
@@ -40,6 +41,6 @@ Reviewer for CVPR 19, ECCV 18, ICCV 19, BMVC 19
 
 ---
 
-Last updated 07/18 
+Last updated 05/19
 
 
