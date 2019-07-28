@@ -6,6 +6,17 @@
 <tbody>
 
 <tr>
+<td class="img"> <img src="images/interaction-hotspots.png"> </td>
+<td markdown="span">
+**Grounded Human-Object Interaction Hotspots from Video**  
+Tushar Nagarajan, Christoph Feichtenhofer, Kristen Grauman  
+Proceedings of the International Conference on Computer Vision (**ICCV**), Seoul, October 2019.  
+**[[paper]](https://arxiv.org/pdf/1812.04558.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-hotspots/)**
+</td>
+</tr>
+
+
+<tr>
 <td class="img"> <img src="images/attr-ops.png"> </td>
 <td markdown="span">
 **Attributes as Operators**  

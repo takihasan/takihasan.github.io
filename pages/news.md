@@ -2,6 +2,8 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
+- Jul 19: Our work on Interaction Hotspots is accepted at ICCV 2019. [[paper]](https://arxiv.org/pdf/1812.04558.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-hotspots/)
+- Jun 19: Presented our work on Interaction Hotspots at the EPIC workshop at CVPR. [EPIC@CVPR19](https://eyewear-computing.org/EPIC_CVPR19/program.html)
 - Jul 18: Our work on Attributes as Operators is accepted at ECCV 2018. [[paper]](https://arxiv.org/pdf/1803.09851.pdf) [[code]](https://github.com/Tushar-N/attributes-as-operators)
 - May 18: Interning at Facebook AI Research this summer
 - Mar 18: Our work on Dynamic Inference Paths in ResNets is accepted at CVPR 2018. [[paper]](https://arxiv.org/pdf/1711.08393.pdf) [[code]](https://github.com/Tushar-N/blockdrop)

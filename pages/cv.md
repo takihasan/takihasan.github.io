@@ -25,6 +25,7 @@ MSc. Physics (dual degree)
 
 # Publications
 ---
+- **Tushar Nagarajan**, Christoph Feichtenhofer, Kristen Grauman, "Grounded Human-Object Interaction Hotspots from Video", ICCV 2019
 - **Tushar Nagarajan**, Kristen Grauman, "Attributes as Operators", ECCV 2018
 - Zuxuan Wu\*, **Tushar Nagarajan**\*, Abhishek Kumar, Steven Rennie, Larry S. Davis, Kristen Grauman, Rogerio Feris, "BlockDrop: Dynamic Inference Paths in Residual Networks" CVPR 2018 (Spotlight)
 - **Tushar Nagarajan**, Sharmistha Jat, Partha Talukdar, "CANDiS: Coupled & Attention-Driven Neural Distant Supervision", ACL 2017 (Workshop)
@@ -32,7 +33,8 @@ MSc. Physics (dual degree)
 
 # Professional Service
 ---
-Reviewer for CVPR 19, ECCV 18, ICCV 19, BMVC 19
+- Reviewer for CVPR 19, ECCV 18, ICCV 19, BMVC 19
+- Outstanding Reviewer: CVPR 19
 
 # Teaching Experience
 ---
@@ -41,6 +43,6 @@ Reviewer for CVPR 19, ECCV 18, ICCV 19, BMVC 19
 
 ---
 
-Last updated 05/19
+Last updated 07/19
 
 
