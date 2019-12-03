@@ -11,7 +11,7 @@
 **Grounded Human-Object Interaction Hotspots from Video**  
 Tushar Nagarajan, Christoph Feichtenhofer, Kristen Grauman  
 Proceedings of the International Conference on Computer Vision (**ICCV**), Seoul, October 2019.  
-**[[paper]](https://arxiv.org/pdf/1812.04558.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-hotspots/)**
+**[[paper]](https://arxiv.org/pdf/1812.04558.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-hotspots/) [[code]](https://github.com/Tushar-N/interaction-hotspots)**
 </td>
 </tr>
 
