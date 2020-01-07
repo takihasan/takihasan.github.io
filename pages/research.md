@@ -11,7 +11,7 @@
 <td markdown="span">
 **EGO-TOPO: Environment Affordances from Egocentric Video**  
 Tushar Nagarajan, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman  
-Preprint 
+Preprint  
 **[[pdf]](http://vision.cs.utexas.edu/projects/ego-topo/data/ego-topo.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/)**
 </td>
 </tr>
