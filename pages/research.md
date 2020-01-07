@@ -5,6 +5,17 @@
 
 <tbody>
 
+
+<tr>
+<td class="img"> <img src="images/ego-topo.png"> </td>
+<td markdown="span">
+**EGO-TOPO: Environment Affordances from Egocentric Video**  
+Tushar Nagarajan, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman  
+Preprint 
+**[[pdf]](http://vision.cs.utexas.edu/projects/ego-topo/data/ego-topo.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/)**
+</td>
+</tr>
+
 <tr>
 <td class="img"> <img src="images/interaction-hotspots.png"> </td>
 <td markdown="span">
