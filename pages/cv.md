@@ -18,6 +18,7 @@ MSc. Physics (dual degree)
 
 # Work Experience
 ---
+**Visiting Researcher** - Facebook AI Research | May 2019 -  
 **Research Intern** - Facebook AI Research | May - Aug 2018  
 **Research Assistant** - UT Austin Vision Research Group | Dr. Kristen Grauman | Jan 2017 –  
 **Research Intern** - IBM Research | Dr. Rogerio Feris | May - Aug 2017  
@@ -25,7 +26,8 @@ MSc. Physics (dual degree)
 
 # Publications
 ---
-- **Tushar Nagarajan**, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman, "EGO-TOPO: Environment Affordances from Egocentric Video", Preprint
+- **Tushar Nagarajan**, Kristen Grauman, "Learning Affordance Landscapes for Interaction Exploration in 3D Environments", Preprint
+- **Tushar Nagarajan**, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman, "EGO-TOPO: Environment Affordances from Egocentric Video", CVPR 2020 (Oral)
 - **Tushar Nagarajan**, Christoph Feichtenhofer, Kristen Grauman, "Grounded Human-Object Interaction Hotspots from Video", ICCV 2019
 - **Tushar Nagarajan**, Kristen Grauman, "Attributes as Operators", ECCV 2018
 - Zuxuan Wu\*, **Tushar Nagarajan**\*, Abhishek Kumar, Steven Rennie, Larry S. Davis, Kristen Grauman, Rogerio Feris, "BlockDrop: Dynamic Inference Paths in Residual Networks" CVPR 2018 (Spotlight)
@@ -34,8 +36,8 @@ MSc. Physics (dual degree)
 
 # Professional Service
 ---
-- Reviewer for CVPR 19,20; ECCV 18; ICCV 19; BMVC 19
-- Outstanding Reviewer: CVPR 19, BMVC 19
+- Reviewer for CVPR 19,20; ECCV 18,20; ICCV 19; BMVC 19; NeurIPS 20
+- Outstanding Reviewer: CVPR 19,20; BMVC 19; ECCV 20
 
 # Teaching Experience
 ---
@@ -44,6 +46,6 @@ MSc. Physics (dual degree)
 
 ---
 
-Last updated 01/20
+Last updated 08/20
 
 

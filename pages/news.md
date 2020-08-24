@@ -2,6 +2,8 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
+- Aug 20: Our recent work on Exploration for Interaction is up on arxiv. [[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/). 
+- Jul 20: Invited talk at Stanford: "Environment-centric reasoning for embodied perception" [[slides]](https://drive.google.com/file/d/1CQzHVes1DsXCerJnh9z0SkD4eEcr1C9K/view?usp=sharing). Thanks Juan Carlos Niebles for the invitation!
 - Mar 20: Our work on Topological environment graphs is accepted at CVPR 2020. [[paper]](https://arxiv.org/pdf/2001.04583.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/)	
 - Jul 19: Our work on Interaction Hotspots is accepted at ICCV 2019. [[paper]](https://arxiv.org/pdf/1812.04558.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-hotspots/)
 - Jun 19: Presented our work on Interaction Hotspots at the EPIC workshop at CVPR. [EPIC@CVPR19](https://eyewear-computing.org/EPIC_CVPR19/program.html)

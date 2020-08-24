@@ -5,6 +5,16 @@
 
 <tbody>
 
+<tr>
+<td class="img"> <img src="images/interaction-exploration.png"> </td>
+<td markdown="span">
+**Learning Affordance Landscapes for Interaction Exploration in 3D Environments**  
+Tushar Nagarajan, Kristen Grauman  
+Arxiv, August 2020.  
+**[[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/)**
+</td>
+</tr>
+
 
 <tr>
 <td class="img"> <img src="images/ego-topo.png"> </td>
@@ -12,7 +22,7 @@
 **EGO-TOPO: Environment Affordances from Egocentric Video**  
 Tushar Nagarajan, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, June 2020.  (**Oral**)  
-**[[paper]](https://arxiv.org/pdf/2001.04583.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/)**
+**[[paper]](https://arxiv.org/pdf/2001.04583.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/) [[talk]](https://www.youtube.com/watch?v=YTx4co3AIDY)**
 </td>
 </tr>
 

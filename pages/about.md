@@ -15,4 +15,4 @@ href="https://www.linkedin.com/in/tushar-nagarajan">
 href="https://scholar.google.com/citations?user=KAKqSwIAAAAJ&hl=en">
 <i class="ai ai-google-scholar" style="font-size:48px;"></i>
 
-Contact: tushar[at]cs.utexas.edu
+Contact: tushar.nagarajan[at]utexas.edu
