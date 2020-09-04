@@ -22,7 +22,7 @@ Arxiv, August 2020.
 **EGO-TOPO: Environment Affordances from Egocentric Video**  
 Tushar Nagarajan, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, June 2020.  (**Oral**)  
-**[[paper]](https://arxiv.org/pdf/2001.04583.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/) [[talk]](https://www.youtube.com/watch?v=YTx4co3AIDY)**
+**[[paper]](https://arxiv.org/pdf/2001.04583.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/) [[talk]](https://www.youtube.com/watch?v=YTx4co3AIDY) [[code]](https://github.com/facebookresearch/ego-topo)**
 </td>
 </tr>
 
