@@ -2,6 +2,7 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
+- Sep 20: Our recent work on Exploration for Interaction is accepted at NeurIPS 2020. [[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/).
 - Aug 20: Our recent work on Exploration for Interaction is up on arxiv. [[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/). 
 - Jul 20: Invited talk at Stanford: "Environment-centric reasoning for embodied perception" [[slides]](https://drive.google.com/file/d/1CQzHVes1DsXCerJnh9z0SkD4eEcr1C9K/view?usp=sharing). Thanks Juan Carlos Niebles for the invitation!
 - Mar 20: Our work on Topological environment graphs is accepted at CVPR 2020. [[paper]](https://arxiv.org/pdf/2001.04583.pdf) [[project]](http://vision.cs.utexas.edu/projects/ego-topo/)	
