@@ -6,6 +6,16 @@
 <tbody>
 
 <tr>
+<td class="img"> <img src="images/differentiable-discovery.png"> </td>
+<td markdown="span">
+**Differentiable Causal Discovery Under Unmeasured Confounding**  
+Rohit Bhattacharya, Tushar Nagarajan, Daniel Malinsky, Ilya Shpitser  
+Arxiv 2020  
+**[[arxiv]](https://arxiv.org/pdf/2010.06978.pdf)**
+</td>
+</tr>
+
+<tr>
 <td class="img"> <img src="images/interaction-exploration.png"> </td>
 <td markdown="span">
 **Learning Affordance Landscapes for Interaction Exploration in 3D Environments**  
