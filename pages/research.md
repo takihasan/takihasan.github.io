@@ -21,7 +21,7 @@ Arxiv 2020
 **Learning Affordance Landscapes for Interaction Exploration in 3D Environments**  
 Tushar Nagarajan, Kristen Grauman  
 Proceedings of the Conference on Neural Information Processing Systems (**NeurIPS**), Dec 2020. (**Spotlight**)  
-**[[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/)**
+**[[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/) [[spotlight talk]](http://vision.cs.utexas.edu/projects/interaction-exploration/media/spotlight.mp4)**
 </td>
 </tr>
 
