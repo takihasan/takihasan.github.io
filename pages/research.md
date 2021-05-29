@@ -11,7 +11,8 @@
 **Environment predictive coding for embodied agents**  
 Santhosh K. Ramakrishnan, Tushar Nagarajan, Ziad Al-Halah, Kristen Grauman  
 on arXiv  
-**[[arxiv]](https://arxiv.org/pdf/2010.06978.pdf)**
+**[[arxiv]](https://arxiv.org/pdf/2010.06978.pdf)
+[[project]](http://vision.cs.utexas.edu/projects/epc/)**
 </td>
 </tr>
 
