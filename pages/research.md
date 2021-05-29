@@ -21,9 +21,7 @@ on arXiv
 **Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos**  
 Yanghao Li, Tushar Nagarajan, Bo Xiong, Kristen Grauman  
 CVPR 2021  
-**
-[[paper]](https://arxiv.org/pdf/2010.06978.pdf)
-**
+**[[paper]](https://arxiv.org/pdf/2010.06978.pdf)**
 </td>
 </tr>
 
@@ -33,9 +31,7 @@ CVPR 2021
 **Differentiable Causal Discovery Under Unmeasured Confounding**  
 Rohit Bhattacharya, Tushar Nagarajan, Daniel Malinsky, Ilya Shpitser  
 AISTATS 2020  
-**
-[[paper]](https://arxiv.org/pdf/2010.06978.pdf)
-**
+**[[paper]](https://arxiv.org/pdf/2010.06978.pdf)**
 </td>
 </tr>
 
@@ -45,12 +41,10 @@ AISTATS 2020
 **Learning Affordance Landscapes for Interaction Exploration in 3D Environments**  
 Tushar Nagarajan, Kristen Grauman  
 NeurIPS 2020 (**Spotlight**)  
-**
-[[paper]](https://arxiv.org/pdf/2008.09241.pdf)
+**[[paper]](https://arxiv.org/pdf/2008.09241.pdf)
 [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/)
 [[talk]](http://vision.cs.utexas.edu/projects/interaction-exploration/media/spotlight.mp4)
-[[code]](https://github.com/facebookresearch/interaction-exploration)
-**
+[[code]](https://github.com/facebookresearch/interaction-exploration)**
 </td>
 </tr>
 
@@ -61,12 +55,10 @@ NeurIPS 2020 (**Spotlight**)
 **EGO-TOPO: Environment Affordances from Egocentric Video**  
 Tushar Nagarajan, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman  
 CVPR 2020 (**Oral**)  
-**
-[[paper]](https://arxiv.org/pdf/2001.04583.pdf)
+**[[paper]](https://arxiv.org/pdf/2001.04583.pdf)
 [[project]](http://vision.cs.utexas.edu/projects/ego-topo/)
 [[talk]](https://www.youtube.com/watch?v=YTx4co3AIDY)
-[[code]](https://github.com/facebookresearch/ego-topo)
-**
+[[code]](https://github.com/facebookresearch/ego-topo)**
 </td>
 </tr>
 
@@ -76,11 +68,9 @@ CVPR 2020 (**Oral**)
 **Grounded Human-Object Interaction Hotspots from Video**  
 Tushar Nagarajan, Christoph Feichtenhofer, Kristen Grauman  
 ICCV 2019  
-**
-[[paper]](https://arxiv.org/pdf/1812.04558.pdf)
+**[[paper]](https://arxiv.org/pdf/1812.04558.pdf)
 [[project]](http://vision.cs.utexas.edu/projects/interaction-hotspots/)
-[[code]](https://github.com/Tushar-N/interaction-hotspots)
-**
+[[code]](https://github.com/Tushar-N/interaction-hotspots)**
 </td>
 </tr>
 
@@ -91,10 +81,8 @@ ICCV 2019
 **Attributes as Operators**  
 Tushar Nagarajan, Kristen Grauman  
 ECCV 2018  
-**
-[[paper]](https://arxiv.org/pdf/1803.09851.pdf)
-[[code]](https://github.com/Tushar-N/attributes-as-operators)
-**
+**[[paper]](https://arxiv.org/pdf/1803.09851.pdf)
+[[code]](https://github.com/Tushar-N/attributes-as-operators)**
 </td>
 </tr>
 
@@ -105,11 +93,9 @@ ECCV 2018
 **BlockDrop: Dynamic Inference Paths in Residual Networks**  
 Zuxuan Wu\*, Tushar Nagarajan\*, Abhishek Kumar, Steven Rennie, Larry S. Davis, Kristen Grauman, Rogerio Feris   
 CVPR 2018 (**Spotlight**) (* equal contribution)  
-**
-[[paper]](https://arxiv.org/pdf/1711.08393.pdf)
+**[[paper]](https://arxiv.org/pdf/1711.08393.pdf)
 [[code]](https://github.com/Tushar-N/blockdrop)
-[[talk]](https://www.youtube.com/embed/sIkUzmgUaxc?start=2931&end=3172)
-**
+[[talk]](https://www.youtube.com/embed/sIkUzmgUaxc?start=2931&end=3172)**
 </td>
 </tr>
 
@@ -120,9 +106,7 @@ CVPR 2018 (**Spotlight**) (* equal contribution)
 **CANDiS: Coupled & Attention-Driven Neural Distant Supervision**  
 Tushar Nagarajan, Sharmistha Jat, Partha Talukdar  
 ACL (Workshop) 2017  
-**
-[[arXiv]](https://arxiv.org/pdf/1710.09942.pdf)
-**
+**[[arXiv]](https://arxiv.org/pdf/1710.09942.pdf)**
 </td>
 </tr>
 
@@ -132,10 +116,8 @@ ACL (Workshop) 2017
 **Computational antimicrobial peptide design and evaluation against multidrug-resistant clinical isolates of bacteria**  
 Deepesh Nagarajan, Tushar Nagarajan, Natasha Roy, Omkar Kulkarni, Sathyabaarathi Ravichandran, Madhulika Mishra, Dipshikha Chakravortty and Nagasuma Chandra  
 Journal of Biological Chemistry (JBC), 2017.  
-**
-[[paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)
-[[code]](https://github.com/Tushar-N/amp-lm)
-**
+**[[paper]](http://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)
+[[code]](https://github.com/Tushar-N/amp-lm)**
 </td>
 </tr>
 
