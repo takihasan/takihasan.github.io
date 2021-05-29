@@ -2,6 +2,9 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
+- Mar 21: Our work on bridging the egocentric <--> third-person gap in video is accepted to CVPR 2021. [[paper]](https://arxiv.org/pdf/2104.07905.pdf)
+- Feb 21: Our work on Environment predictive coding is up on arxiv. [[paper]](https://arxiv.org/pdf/2102.02337.pdf)
+- Jan 21: Our work on Differentiable constraints for causal structure discovery is accepted to AISTATS 2021. [[paper]](https://arxiv.org/pdf/2010.06978.pdf)
 - Oct 20: Our work on Differentiable constraints for causal structure discovery is up on arxiv. [[paper]](https://arxiv.org/pdf/2010.06978.pdf)
 - Sep 20: Our work on Exploration for Interaction is accepted at NeurIPS 2020. [[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/).
 - Aug 20: Our work on Exploration for Interaction is up on arxiv. [[paper]](https://arxiv.org/pdf/2008.09241.pdf) [[project]](http://vision.cs.utexas.edu/projects/interaction-exploration/). 
