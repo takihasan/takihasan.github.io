@@ -11,14 +11,12 @@
 **Environment predictive coding for embodied agents**  
 Santhosh K. Ramakrishnan, Tushar Nagarajan, Ziad Al-Halah, Kristen Grauman  
 on arXiv  
-**
-[[arxiv]](https://arxiv.org/pdf/2010.06978.pdf)
-**
+**[[arxiv]](https://arxiv.org/pdf/2010.06978.pdf)**
 </td>
 </tr>
 
 <tr>
-<td class="img"> <img src="images/differentiable-discovery.png"> </td>
+<td class="img"> <img src="images/ego-exo.png"> </td>
 <td markdown="span">
 **Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos**  
 Yanghao Li, Tushar Nagarajan, Bo Xiong, Kristen Grauman  
