@@ -11,7 +11,7 @@
 **Environment predictive coding for embodied agents**  
 Santhosh K. Ramakrishnan, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Kristen Grauman  
 on arXiv  
-**[[arxiv]](https://arxiv.org/pdf/2010.06978.pdf)
+**[[arxiv]](https://arxiv.org/pdf/2102.02337.pdf)
 [[project]](http://vision.cs.utexas.edu/projects/epc/)**
 </td>
 </tr>
@@ -22,7 +22,7 @@ on arXiv
 **Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos**  
 Yanghao Li, <ins>Tushar Nagarajan</ins>, Bo Xiong, Kristen Grauman  
 CVPR 2021  
-**[[paper]](https://arxiv.org/pdf/2010.06978.pdf)**
+**[[paper]](https://arxiv.org/pdf/2104.07905.pdf)**
 </td>
 </tr>
 
