@@ -2,6 +2,8 @@
 ---
 
 <div class="container"> <div class="events" markdown="1" >
+- Oct 21: Our massive scale egocentric video dataset (Ego4D) has been released.  [[paper]](https://arxiv.org/pdf/2110.07058.pdf) [[project]](https://ego4d-data.org/)
+- Oct 21: Our work on learning human activity priors for embodied AI is accepted to NeurIPS 2021. [[paper]](https://arxiv.org/pdf/2110.07692.pdf)
 - Mar 21: Our work on bridging the egocentric <--> third-person gap in video is accepted to CVPR 2021. [[paper]](https://arxiv.org/pdf/2104.07905.pdf)
 - Feb 21: Our work on Environment predictive coding is up on arxiv. [[paper]](https://arxiv.org/pdf/2102.02337.pdf)
 - Jan 21: Our work on Differentiable constraints for causal structure discovery is accepted to AISTATS 2021. [[paper]](https://arxiv.org/pdf/2010.06978.pdf)

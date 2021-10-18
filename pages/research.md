@@ -6,15 +6,16 @@
 <tbody>
 
 <tr>
-<td class="img"> <img src="images/epc.png"> </td>
+<td class="img"> <img src="images/ego-rewards.png"> </td>
 <td markdown="span">
-**Environment predictive coding for embodied agents**  
-Santhosh K. Ramakrishnan, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Kristen Grauman  
-on arXiv  
-**[[arxiv]](https://arxiv.org/pdf/2102.02337.pdf)
-[[project]](http://vision.cs.utexas.edu/projects/epc/)**
+**Shaping embodied agent behavior with activity-context priors from egocentric video**  
+<ins>Tushar Nagarajan</ins>, Kristen Grauman  
+NeurIPS 2021 (**Spotlight**)  
+**[[paper]](https://arxiv.org/pdf/2110.07692.pdf)
+[[project]](http://vision.cs.utexas.edu/projects/ego-rewards/)**
 </td>
 </tr>
+
 
 <tr>
 <td class="img"> <img src="images/ego-exo.png"> </td>
