@@ -1,7 +1,12 @@
 # News & Activities
 ---
 
-<div class="container"> <div class="events" markdown="1" >
+<div class="container">
+<div class="events" markdown="1" >
+
+- Jul 22: Our work on sim-to-real for video understanding is up on arxiv. [[paper]](https://arxiv.org/pdf/2207.11365.pdf) [[project]](ttps://vision.cs.utexas.edu/projects/ego-scene-context/)
+- Mar 22: Ego4D has been accepted to CVPR 2022. [[paper]](https://arxiv.org/pdf/2110.07058.pdf) [[project]](https://ego4d-data.org/)
+- Jan 22: Our work on Environment predictive coding is accepted to ICLR 2022. [[paper]](https://arxiv.org/pdf/2102.02337.pdf) [[project]](ttps://vision.cs.utexas.edu/projects/epc/)
 - Oct 21: Our massive scale egocentric video dataset (Ego4D) has been released.  [[paper]](https://arxiv.org/pdf/2110.07058.pdf) [[project]](https://ego4d-data.org/)
 - Oct 21: Our work on learning human activity priors for embodied AI is accepted to NeurIPS 2021. [[paper]](https://arxiv.org/pdf/2110.07692.pdf)
 - Mar 21: Our work on bridging the egocentric <--> third-person gap in video is accepted to CVPR 2021. [[paper]](https://arxiv.org/pdf/2104.07905.pdf)
@@ -24,4 +29,6 @@
 - Jan 17: Joined [Dr. Kristen Grauman](https://www.cs.utexas.edu/~grauman/)'s vision group as a Research Assistant.
 - Aug 16: Joined UT Austin as a graduate student.
 - July 16: Completed a wonderful internship at [MALL Lab](https://malllabiisc.github.io/), thanks [Partha](http://talukdar.net/)!
-</div></div>
+
+</div>
+</div>
