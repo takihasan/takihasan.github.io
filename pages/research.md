@@ -11,8 +11,10 @@
 **Egocentric scene context for human-centric environment understanding from video**  
 <ins>Tushar Nagarajan</ins>, Santhosh K. Ramakrishnan, Ruta Desai, James Hillis, Kristen Grauman  
 ArXiv  
-**[[arxiv]](https://arxiv.org/pdf/2207.11365.pdf)
-[[project]](https://vision.cs.utexas.edu/projects/ego-scene-context/)**
+**
+[[arxiv]](https://arxiv.org/pdf/2207.11365.pdf)
+[[project]](https://vision.cs.utexas.edu/projects/ego-scene-context/)
+**
 </td>
 </tr>
 
@@ -21,10 +23,12 @@ ArXiv
 <td class="img"> <img src="https://user-images.githubusercontent.com/4995097/182511253-53833de1-e035-458d-9527-d5a22844fd49.png"> </td>
 <td markdown="span">
 **Ego4d: Around the world in 3,000 hours of egocentric video**  
-Kristen Grauman, Andrew Westbury, <ins>Tushar Nagarajan</ins>\* , ... Jitendra Malik
-CVPR 2022 (**Oral**)
-**[[paper]](https://arxiv.org/pdf/2110.07058.pdf)
-[[project]](https://ego4d-data.org/)**
+Kristen Grauman, Andrew Westbury, <ins>Tushar Nagarajan</ins>\* , ... Jitendra Malik  
+CVPR 2022 (**Oral**)  
+**
+[[paper]](https://arxiv.org/pdf/2110.07058.pdf)
+[[project]](https://ego4d-data.org/)
+**
 </td>
 </tr>
 
@@ -34,9 +38,11 @@ CVPR 2022 (**Oral**)
 <td markdown="span">
 **Environment Predictive Coding for Visual Navigation**  
 Santhosh K. Ramakrishnan, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Kristen Grauman  
-ICLR 2022
-**[[paper]](https://arxiv.org/pdf/2102.02337.pdf)
-[[project]](https://vision.cs.utexas.edu/projects/epc/)**
+ICLR 2022  
+**
+[[paper]](https://arxiv.org/pdf/2102.02337.pdf)
+[[project]](https://vision.cs.utexas.edu/projects/epc/)
+**
 </td>
 </tr>
 
@@ -47,8 +53,10 @@ ICLR 2022
 **Shaping embodied agent behavior with activity-context priors from egocentric video**  
 <ins>Tushar Nagarajan</ins>, Kristen Grauman  
 NeurIPS 2021 (**Spotlight**)  
-**[[paper]](https://arxiv.org/pdf/2110.07692.pdf)
-[[project]](https://vision.cs.utexas.edu/projects/ego-rewards/)**
+**
+[[paper]](https://arxiv.org/pdf/2110.07692.pdf)
+[[project]](https://vision.cs.utexas.edu/projects/ego-rewards/)
+**
 </td>
 </tr>
 
@@ -59,7 +67,9 @@ NeurIPS 2021 (**Spotlight**)
 **Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos**  
 Yanghao Li, <ins>Tushar Nagarajan</ins>, Bo Xiong, Kristen Grauman  
 CVPR 2021  
-**[[paper]](https://arxiv.org/pdf/2104.07905.pdf)**
+**
+[[paper]](https://arxiv.org/pdf/2104.07905.pdf)
+**
 </td>
 </tr>
 
@@ -69,7 +79,10 @@ CVPR 2021
 **Differentiable Causal Discovery Under Unmeasured Confounding**  
 Rohit Bhattacharya, <ins>Tushar Nagarajan</ins>, Daniel Malinsky, Ilya Shpitser  
 AISTATS 2020  
-**[[paper]](https://arxiv.org/pdf/2010.06978.pdf)[[code]](https://gitlab.com/rbhatta8/dcd)**
+**
+[[paper]](https://arxiv.org/pdf/2010.06978.pdf)
+[[code]](https://gitlab.com/rbhatta8/dcd)
+**
 </td>
 </tr>
 
@@ -79,10 +92,12 @@ AISTATS 2020
 **Learning Affordance Landscapes for Interaction Exploration in 3D Environments**  
 <ins>Tushar Nagarajan</ins>, Kristen Grauman  
 NeurIPS 2020 (**Spotlight**)  
-**[[paper]](https://arxiv.org/pdf/2008.09241.pdf)
+**
+[[paper]](https://arxiv.org/pdf/2008.09241.pdf)
 [[project]](https://vision.cs.utexas.edu/projects/interaction-exploration/)
 [[talk]](https://vision.cs.utexas.edu/projects/interaction-exploration/media/spotlight.mp4)
-[[code]](https://github.com/facebookresearch/interaction-exploration)**
+[[code]](https://github.com/facebookresearch/interaction-exploration)
+**
 </td>
 </tr>
 
@@ -93,10 +108,12 @@ NeurIPS 2020 (**Spotlight**)
 **EGO-TOPO: Environment Affordances from Egocentric Video**  
 <ins>Tushar Nagarajan</ins>, Yanghao Li, Christoph Feichtenhofer, Kristen Grauman  
 CVPR 2020 (**Oral**)  
-**[[paper]](https://arxiv.org/pdf/2001.04583.pdf)
+**
+[[paper]](https://arxiv.org/pdf/2001.04583.pdf)
 [[project]](https://vision.cs.utexas.edu/projects/ego-topo/)
 [[talk]](https://www.youtube.com/watch?v=YTx4co3AIDY)
-[[code]](https://github.com/facebookresearch/ego-topo)**
+[[code]](https://github.com/facebookresearch/ego-topo)
+**
 </td>
 </tr>
 
@@ -106,9 +123,11 @@ CVPR 2020 (**Oral**)
 **Grounded Human-Object Interaction Hotspots from Video**  
 <ins>Tushar Nagarajan</ins>, Christoph Feichtenhofer, Kristen Grauman  
 ICCV 2019  
-**[[paper]](https://arxiv.org/pdf/1812.04558.pdf)
+**
+[[paper]](https://arxiv.org/pdf/1812.04558.pdf)
 [[project]](https://vision.cs.utexas.edu/projects/interaction-hotspots/)
-[[code]](https://github.com/Tushar-N/interaction-hotspots)**
+[[code]](https://github.com/Tushar-N/interaction-hotspots)
+**
 </td>
 </tr>
 
@@ -119,8 +138,10 @@ ICCV 2019
 **Attributes as Operators**  
 <ins>Tushar Nagarajan</ins>, Kristen Grauman  
 ECCV 2018  
-**[[paper]](https://arxiv.org/pdf/1803.09851.pdf)
-[[code]](https://github.com/Tushar-N/attributes-as-operators)**
+**
+[[paper]](https://arxiv.org/pdf/1803.09851.pdf)
+[[code]](https://github.com/Tushar-N/attributes-as-operators)
+**
 </td>
 </tr>
 
@@ -131,9 +152,11 @@ ECCV 2018
 **BlockDrop: Dynamic Inference Paths in Residual Networks**  
 Zuxuan Wu\*, <ins>Tushar Nagarajan</ins>\*, Abhishek Kumar, Steven Rennie, Larry S. Davis, Kristen Grauman, Rogerio Feris   
 CVPR 2018 (**Spotlight**) (* equal contribution)  
-**[[paper]](https://arxiv.org/pdf/1711.08393.pdf)
+**
+[[paper]](https://arxiv.org/pdf/1711.08393.pdf)
 [[code]](https://github.com/Tushar-N/blockdrop)
-[[talk]](https://www.youtube.com/embed/sIkUzmgUaxc?start=2931&end=3172)**
+[[talk]](https://www.youtube.com/embed/sIkUzmgUaxc?start=2931&end=3172)
+**
 </td>
 </tr>
 
@@ -144,7 +167,9 @@ CVPR 2018 (**Spotlight**) (* equal contribution)
 **CANDiS: Coupled & Attention-Driven Neural Distant Supervision**  
 <ins>Tushar Nagarajan</ins>, Sharmistha Jat, Partha Talukdar  
 ACL (Workshop) 2017  
-**[[arXiv]](https://arxiv.org/pdf/1710.09942.pdf)**
+**
+[[arXiv]](https://arxiv.org/pdf/1710.09942.pdf)
+**
 </td>
 </tr>
 
@@ -154,8 +179,10 @@ ACL (Workshop) 2017
 **Computational antimicrobial peptide design and evaluation against multidrug-resistant clinical isolates of bacteria**  
 Deepesh Nagarajan, <ins>Tushar Nagarajan</ins>, Natasha Roy, Omkar Kulkarni, Sathyabaarathi Ravichandran, Madhulika Mishra, Dipshikha Chakravortty and Nagasuma Chandra  
 Journal of Biological Chemistry (JBC), 2017.  
-**[[paper]](https://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)
-[[code]](https://github.com/Tushar-N/amp-lm)**
+**
+[[paper]](https://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf)
+[[code]](https://github.com/Tushar-N/amp-lm)
+**
 </td>
 </tr>
 
