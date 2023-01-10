@@ -8,7 +8,7 @@
 <tr>
 <td class="img"> <img src="https://user-images.githubusercontent.com/4995097/182510627-f199cead-b9ed-4626-ae9a-5e6bc4bfb3ca.png"> </td>
 <td markdown="span">
-**EEgoEnv: Human-centric environment representations from egocentric video**  
+**EgoEnv: Human-centric environment representations from egocentric video**  
 <ins>Tushar Nagarajan</ins>, Santhosh K. Ramakrishnan, Ruta Desai, James Hillis, Kristen Grauman  
 ArXiv  
 **[[arxiv]](https://arxiv.org/pdf/2207.11365.pdf)
