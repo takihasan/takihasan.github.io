@@ -1,6 +1,6 @@
 <img src="images/face.jpg" style="width: 180px; float: right" hspace="20"/>
 
-I am an incoming research scientist at Meta AI Research. I finished my PhD in Computer Science at UT Austin, advised by [Dr. Kristen Grauman](https://www.cs.utexas.edu/~grauman/). My PhD research was at the intersection of video understanding and embodied AI. 
+I am a research scientist at Meta AI. I graduated with a PhD in Computer Science from UT Austin, advised by [Dr. Kristen Grauman](https://www.cs.utexas.edu/~grauman/). My PhD research was at the intersection of video understanding and embodied AI. 
 
 Before coming to UT, I was an intern at [MALL Lab](https://malllabiisc.github.io/), IISc, working with Dr. Partha Talukdar. I completed my B.E. in Computer Science from BITS Goa.
 

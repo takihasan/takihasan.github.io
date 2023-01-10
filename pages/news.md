@@ -4,8 +4,8 @@
 <div class="container">
 <div class="events" markdown="1" >
 
-- Nov 22: I graduated! Next stop: Meta AI Research in NY.
-- Jul 22: Our work on sim-to-real for video understanding is up on arxiv. [[paper]](https://arxiv.org/pdf/2207.11365.pdf) [[project]](https://vision.cs.utexas.edu/projects/ego-scene-context/)
+- Nov 22: I graduated! Next stop: Meta AI Research in NY. [[thesis]](https://utexas.box.com/s/zoike116ivk5ikbn3w16sm76d4lwqo2j) [[slides]](https://utexas.box.com/s/j86oehf314x3lizxlcoap7m2qho8p1oe)
+- Jul 22: Our work on sim-to-real for video understanding is up on arxiv. [[paper]](https://arxiv.org/pdf/2207.11365.pdf) [[project]](https://vision.cs.utexas.edu/projects/ego-env/)
 - Mar 22: Ego4D has been accepted to CVPR 2022. [[paper]](https://arxiv.org/pdf/2110.07058.pdf) [[project]](https://ego4d-data.org/)
 - Jan 22: Our work on Environment predictive coding is accepted to ICLR 2022. [[paper]](https://arxiv.org/pdf/2102.02337.pdf) [[project]](ttps://vision.cs.utexas.edu/projects/epc/)
 - Oct 21: Our massive scale egocentric video dataset (Ego4D) has been released.  [[paper]](https://arxiv.org/pdf/2110.07058.pdf) [[project]](https://ego4d-data.org/)
