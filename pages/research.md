@@ -6,6 +6,18 @@
 <tbody>
 
 <tr>
+<td class="img"> <img src="https://user-images.githubusercontent.com/4995097/214904558-26c5bffd-f7e3-41b9-8ab2-04eeddfef21b.png"> </td>
+<td markdown="span">
+**EgoEnv: Human-centric environment representations from egocentric video**  
+Shuhan Tan, <ins>Tushar Nagarajan</ins>, Kristen Grauman  
+ArXiv  
+**[[arxiv]](https://arxiv.org/pdf/2301.02217.pdf)
+[[project]](https://vision.cs.utexas.edu/projects/egodistill/)**
+</td>
+</tr>
+
+
+<tr>
 <td class="img"> <img src="https://user-images.githubusercontent.com/4995097/182510627-f199cead-b9ed-4626-ae9a-5e6bc4bfb3ca.png"> </td>
 <td markdown="span">
 **EgoEnv: Human-centric environment representations from egocentric video**  

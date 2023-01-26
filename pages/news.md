@@ -4,6 +4,7 @@
 <div class="container">
 <div class="events" markdown="1" >
 
+- Jan 23: Our work on efficient video understanding with IMU is up on arxiv. [[paper]](https://arxiv.org/pdf/2301.02217.pdf) [[project]](https://vision.cs.utexas.edu/projects/egodistill/)
 - Nov 22: I graduated! Next stop: Meta AI Research in NY. [[thesis]](https://utexas.box.com/s/zoike116ivk5ikbn3w16sm76d4lwqo2j) [[slides]](https://utexas.box.com/s/j86oehf314x3lizxlcoap7m2qho8p1oe)
 - Jul 22: Our work on sim-to-real for video understanding is up on arxiv. [[paper]](https://arxiv.org/pdf/2207.11365.pdf) [[project]](https://vision.cs.utexas.edu/projects/ego-env/)
 - Mar 22: Ego4D has been accepted to CVPR 2022. [[paper]](https://arxiv.org/pdf/2110.07058.pdf) [[project]](https://ego4d-data.org/)

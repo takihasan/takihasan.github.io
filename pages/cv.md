@@ -10,6 +10,4 @@ permalink: /cv/
 
 ---
 
-Last updated 08/20
-
 
