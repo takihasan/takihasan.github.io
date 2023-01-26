@@ -8,7 +8,7 @@
 <tr>
 <td class="img"> <img src="https://user-images.githubusercontent.com/4995097/214904558-26c5bffd-f7e3-41b9-8ab2-04eeddfef21b.png"> </td>
 <td markdown="span">
-**EgoEnv: Human-centric environment representations from egocentric video**  
+**EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding**  
 Shuhan Tan, <ins>Tushar Nagarajan</ins>, Kristen Grauman  
 ArXiv  
 **[[arxiv]](https://arxiv.org/pdf/2301.02217.pdf)
