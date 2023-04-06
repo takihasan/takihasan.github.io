@@ -71,7 +71,8 @@ NeurIPS 2021 (**Spotlight**)
 **Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos**  
 Yanghao Li, <ins>Tushar Nagarajan</ins>, Bo Xiong, Kristen Grauman  
 CVPR 2021  
-**[[paper]](https://arxiv.org/pdf/2104.07905.pdf)**
+**[[paper]](https://arxiv.org/pdf/2104.07905.pdf)
+[[code]](https://github.com/facebookresearch/Ego-Exo)**
 </td>
 </tr>
 
