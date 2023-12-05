@@ -10,8 +10,8 @@
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/egoexo4d.png"> </td>
 <td markdown="span">
 **Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives**  
-Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, <ins>Tushar Nagarajan</ins>\*  et al.
-ArXiv 23 
+Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, <ins>Tushar Nagarajan</ins>\*  et al.  
+ArXiv 23  
 **[[arxiv]](https://arxiv.org/abs/2311.18259)
 [[project]](https://ego-exo4d-data.org/)**
 </td>
@@ -23,7 +23,7 @@ ArXiv 23
 <td markdown="span">
 **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**  
 Seungwhan Moon\*, Andrea Madotto\*, Zhaojiang Lin\*, <ins>Tushar Nagarajan</ins>\*, Matt Smith, Shashank Jain, Chun-Fu Yeh, Prakash Murugesan, Peyman Heidari, Yue Liu, Kavya Srinet, Babak Damavandi, Anuj Kumar  
-ArXiv 23 (* equal contribution) 
+ArXiv 23 (* equal contribution)  
 **[[arxiv]](https://arxiv.org/abs/2309.16058)**
 </td>
 </tr>
@@ -41,14 +41,14 @@ NeurIPS 23
 </tr>
 
 
-
 <tr>
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/goalstep.png"> </td>
 <td markdown="span">
 **Ego4D Goal-Step: Toward Hierarchical Understanding of Procedural Activities**  
 Yale Song, Gene Byrne, <ins>Tushar Nagarajan</ins>, Huiyu Wang, Miguel Martin, Lorenzo Torresani  
 NeurIPS 23  
-**[[paper]](https://openreview.net/forum?id=3BxYAaovKr)**
+**[[paper]](https://openreview.net/forum?id=3BxYAaovKr)
+[[code]](https://github.com/facebookresearch/ego4d-goalstep)**
 </td>
 </tr>
 
@@ -60,7 +60,7 @@ NeurIPS 23
 **EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding**  
 Shuhan Tan, <ins>Tushar Nagarajan</ins>, Kristen Grauman  
 NeurIPS 23  
-**[[arxiv]](https://arxiv.org/abs/2301.02217)
+**[[paper]](https://arxiv.org/abs/2301.02217)
 [[project]](https://vision.cs.utexas.edu/projects/egodistill/)**
 </td>
 </tr>
@@ -72,7 +72,7 @@ NeurIPS 23
 **EgoEnv: Human-centric environment representations from egocentric video**  
 <ins>Tushar Nagarajan</ins>, Santhosh K. Ramakrishnan, Ruta Desai, James Hillis, Kristen Grauman  
 NeurIPS 23 (**Oral**)  
-**[[arxiv]](https://arxiv.org/abs/2207.11365)
+**[[paper]](https://arxiv.org/abs/2207.11365)
 [[project]](https://vision.cs.utexas.edu/projects/ego-env/)**
 </td>
 </tr>
@@ -110,7 +110,8 @@ ICLR 2022
 <ins>Tushar Nagarajan</ins>, Kristen Grauman  
 NeurIPS 2021 (**Spotlight**)  
 **[[paper]](https://arxiv.org/abs/2110.07692)
-[[project]](https://vision.cs.utexas.edu/projects/ego-rewards/)**
+[[project]](https://vision.cs.utexas.edu/projects/ego-rewards/)
+[[talk]](https://vision.cs.utexas.edu/projects/ego-rewards/media/teaser.mp4)**
 </td>
 </tr>
 
@@ -208,7 +209,7 @@ CVPR 2018 (**Spotlight**) (* equal contribution)
 **CANDiS: Coupled & Attention-Driven Neural Distant Supervision**  
 <ins>Tushar Nagarajan</ins>, Sharmistha Jat, Partha Talukdar  
 ACL (Workshop) 2017  
-**[[arXiv]](https://arxiv.org/abs/1710.09942)**
+**[[paper]](https://arxiv.org/abs/1710.09942)**
 </td>
 </tr>
 
