@@ -165,7 +165,7 @@ CVPR 2020 (**Oral**)
 </tr>
 
 <tr>
-<td class="img"> <img src="hhttps://tushar-n.s3.amazonaws.com/thumbnails/hotspots.png"> </td>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/hotspots.png"> </td>
 <td markdown="span">
 **Grounded Human-Object Interaction Hotspots from Video**  
 <ins>Tushar Nagarajan</ins>, Christoph Feichtenhofer, Kristen Grauman  
