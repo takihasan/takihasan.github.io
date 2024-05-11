@@ -4,12 +4,14 @@
 <div class="container">
 <div class="events" markdown="1" >
 
+- Feb 24: We are organizing the First Joint Egocentric Vision (EgoVis) Workshop at CVPR 24 (17th June). [[website]](https://egovis.github.io/)
+- Feb 24: Four papers accepted at CVPR 24: [StepDiff](https://arxiv.org/abs/2404.16222), [Video Detours](https://arxiv.org/abs/2401.01823), [Video ReCap](https://arxiv.org/abs/2402.13250) and [Ego-Exo4D](https://arxiv.org/abs/2311.18259).
 - Nov 23: Ego-Exo4D has been announced! [[arxiv]](https://arxiv.org/abs/2311.18259) [[blog]](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/) [[website]](https://ego-exo4d-data.org/).
 - Sep 23: Two papers accepted at NeurIPS 23 (Datasets and benchmarks): [Ego4D-GoalStep](https://openreview.net/forum?id=3BxYAaovKr) and [HT-Step](https://openreview.net/forum?id=vv3cocNsEK).
 - Sep 23: Two papers accepted at NeurIPS 23: [EgoDistill](https://arxiv.org/abs/2301.02217) and [EgoEnv](https://arxiv.org/abs/2207.11365).
-- Nov 22: I graduated! Next stop: Meta AI Research in NY. [[thesis]](https://utexas.box.com/s/zoike116ivk5ikbn3w16sm76d4lwqo2j) [[slides]](https://utexas.box.com/s/j86oehf314x3lizxlcoap7m2qho8p1oe)
+- Nov 22: I graduated! Next stop: FAIR, Meta in NY. [[thesis]](https://utexas.box.com/s/zoike116ivk5ikbn3w16sm76d4lwqo2j) [[slides]](https://utexas.box.com/s/j86oehf314x3lizxlcoap7m2qho8p1oe)
 - Mar 22: Ego4D has been accepted at CVPR 2022. [[paper]](https://arxiv.org/abs/2110.07058) [[project]](https://ego4d-data.org/)
-- Jan 22: Our work on Environment predictive coding is accepted at ICLR 2022. [[paper]](https://arxiv.org/abs/2102.02337) [[project]](ttps://vision.cs.utexas.edu/projects/epc/)
+- Jan 22: Our work on Environment predictive coding is accepted at ICLR 2022. [[paper]](https://arxiv.org/abs/2102.02337) [[project]](https://vision.cs.utexas.edu/projects/epc/)
 - Oct 21: Our work on learning human activity priors for embodied AI is accepted at NeurIPS 2021. [[paper]](https://arxiv.org/abs/2110.07692)
 - Mar 21: Our work on bridging the egocentric <--> third-person gap in video is accepted at CVPR 2021. [[paper]](https://arxiv.org/abs/2104.07905)
 - Jan 21: Our work on Differentiable constraints for causal structure discovery is accepted at AISTATS 2021. [[paper]](https://arxiv.org/abs/2010.06978)

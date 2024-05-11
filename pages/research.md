@@ -7,12 +7,47 @@
 
 
 <tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/stepdiff.png"> </td>
+<td markdown="span">
+**Step Differences in Instructional Video**  
+<ins>Tushar Nagarajan</ins>, Lorenzo Torresani  
+CVPR 24    
+**[[paper]](https://arxiv.org/abs/2404.16222)
+[[data/code]](https://github.com/facebookresearch/stepdiff/)**
+</td>
+</tr>
+
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/video_detours.png"> </td>
+<td markdown="span">
+**Detours for Navigating Instructional Videos**  
+Kumar Ashutosh, Zihui Xue, <ins>Tushar Nagarajan</ins>, Kristen Grauman  
+CVPR 24 (**Highlight**)  
+**[[paper]](https://arxiv.org/abs/2401.01823)**
+</td>
+</tr>
+
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/video_recap.png"> </td>
+<td markdown="span">
+**Video ReCap: Recursive Captioning of Hour-Long Videos**  
+Md Mohaiminul Islam, Ngan Ho, Xitong Yang, <ins>Tushar Nagarajan</ins>, Lorenzo Torresani, Gedas Bertasius  
+CVPR 24  
+**[[paper]](https://arxiv.org/abs/2402.13250)
+[[code]](https://github.com/md-mohaiminul/VideoRecap)**
+</td>
+</tr>
+
+
+<tr>
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/egoexo4d.png"> </td>
 <td markdown="span">
 **Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives**  
 Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, <ins>Tushar Nagarajan</ins>\*  et al.  
-ArXiv 23  
-**[[arxiv]](https://arxiv.org/abs/2311.18259)
+CVPR 24 (**Oral**)  
+**[[paper]](https://arxiv.org/abs/2311.18259)
 [[project]](https://ego-exo4d-data.org/)**
 </td>
 </tr>
@@ -36,7 +71,8 @@ ArXiv 23 (* equal contribution)
 **HT-Step: Aligning Instructional Articles with How-To Videos**  
 Triantafyllos Afouras, Effrosyni Mavroudi, <ins>Tushar Nagarajan</ins>, Huiyu Wang, Lorenzo Torresani  
 NeurIPS 23  
-**[[paper]](https://openreview.net/forum?id=vv3cocNsEK)**
+**[[paper]](https://openreview.net/forum?id=vv3cocNsEK)
+[[data/code]](https://github.com/facebookresearch/htstep)**
 </td>
 </tr>
 
@@ -73,7 +109,8 @@ NeurIPS 23
 <ins>Tushar Nagarajan</ins>, Santhosh K. Ramakrishnan, Ruta Desai, James Hillis, Kristen Grauman  
 NeurIPS 23 (**Oral**)  
 **[[paper]](https://arxiv.org/abs/2207.11365)
-[[project]](https://vision.cs.utexas.edu/projects/ego-env/)**
+[[project]](https://vision.cs.utexas.edu/projects/ego-env/)
+[[code]](https://github.com/facebookresearch/ego-env)**
 </td>
 </tr>
 
@@ -98,7 +135,8 @@ TPAMI 2023. Invited article: Best Papers of CVPR
 Santhosh K. Ramakrishnan, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Kristen Grauman  
 ICLR 2022  
 **[[paper]](https://arxiv.org/abs/2102.02337)
-[[project]](https://vision.cs.utexas.edu/projects/epc/)**
+[[project]](https://vision.cs.utexas.edu/projects/epc/)
+[[code]](https://github.com/srama2512/EPC-SSL)**
 </td>
 </tr>
 
