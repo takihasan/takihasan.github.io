@@ -33,11 +33,7 @@ a:hover {
   display: block;
   margin: 0 auto; /* Centers the image */
 }
-@media (max-width: 600px) {
-  .avatar {
-    width: 100px; /* Reduce size further on very small screens */
-  }
-}
+
 
 
 .icons {
