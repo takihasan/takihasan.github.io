@@ -25,20 +25,20 @@ a:hover {
     line-height: 1.6em;
 }
 
-/* .avatar {
+.avatar {
   border-radius: 50%;
   width: 80%; /* Use a percentage width for better scaling */
   max-width: 150px; /* Limits size on larger screens */
   height: auto; /* Maintains aspect ratio */
   display: block;
   margin: 0 auto; /* Centers the image */
-} */
+}
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .avatar {
     width: 100px; /* Reduce size further on very small screens */
   }
-}
+} */
 
 
 
