@@ -26,12 +26,8 @@ a:hover {
 }
 
 .avatar {
-  border-radius: 50%;
-  width: 80%; /* Use a percentage width for better scaling */
-  max-width: 150px; /* Limits size on larger screens */
-  height: auto; /* Maintains aspect ratio */
-  display: block;
-  margin: 0 auto; /* Centers the image */
+    border-radius: 50%;
+    width: 150px;
 }
 
 
