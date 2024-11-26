@@ -29,7 +29,7 @@ web_entry_template = '''
 </tr>
 '''.strip()
 
-
+# Latex CV page template
 cv_template = '''
 \\section{{Publications}}
 \\begin{{cvitems}}{{\\cvbullet}}
@@ -39,7 +39,7 @@ cv_template = '''
 \\end{{cvitems}}
 '''
 
-# Latex CV \pubitem template
+# CV \pubitem template
 cv_entry_template = '''
 \\pubitem
     {{{authors}}}
