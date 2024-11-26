@@ -1,0 +1,328 @@
+[
+  {
+    "title": "BIMBA: Selective-Scan Compression for Long-Range Video Question Answering",
+    "authors": ["Md Mohaiminul Islam", "Tushar Nagarajan", "Huiyu Wang", "Gedas Bertasius", "Lorenzo Torresani"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "Switch-a-View: Few-Shot View Selection Learned from Edited Videos",
+    "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Kristen Grauman"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos",
+    "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Reina Pradhan", "Kristen Grauman"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "SPOC: Spatially-Progressing Object State Change Segmentation in Video",
+    "authors": ["Priyanka Mandikal", "Tushar Nagarajan", "Alex Stoken", "Zihui Xue", "Kristen Grauman"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "EgoAdapt: A Joint Distillation and Policy Learning Framework for Efficient Multisensory Egocentric Perception",
+    "authors": ["Sanjoy Chowdhury", "Subrata Biswas", "Sayan Nag", "Tushar Nagarajan", "Calvin Murdock", "Ishwarya Ananthabhotla", "Yijun Qian", "Vamsi Krishna Ithapu", "Dinesh Manocha", "Ruohan Gao"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "VITED: Video Temporal Evidence Distillation",
+    "authors": ["Yujie Lu", "Yale Song", "Lorenzo Torresani", "William Wang", "Tushar Nagarajan"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "Human Action Anticipation: A Survey",
+    "authors": ["Bolin Lai", "Sam Toyer", "Tushar Nagarajan", "Rohit Girdhar", "Shengxin Zha", "James Rehg", "Kris Kitani", "Kristen Grauman", "Ruta Deasi", "Miao Liu"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning",
+    "authors": ["Han Lin", "Tushar Nagarajan", "Nicolas Ballas", "Mido Assran", "Mojtaba Komeili", "Mohit Bansal", "Koustuv Sinha"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "ExpertAF: Expert Actionable Feedback from Video",
+    "authors": ["Kumar Ashutosh", "Tushar Nagarajan", "Georgios Pavlakos", "Kris Kitani", "Kristen Grauman"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "Unlocking Exocentric Video-Language Data for Egocentric Video Representation Learning",
+    "authors": ["Zi-Yi Dou", "Xitong Yang", "Tushar Nagarajan", "Huiyu Wang", "Jing Huang", "Nanyun Peng", "Kris Kitani", "Fu-Jen Chu"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???"
+    }
+  },
+  {
+    "title": "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/anymal.png",
+    "authors": ["Seungwhan Moon*", "Andrea Madotto*", "Zhaojiang Lin*", "Tushar Nagarajan*", "Matt Smith", "Shashank Jain", "Chun-Fu Yeh", "Prakash Murugesan", "Peyman Heidari", "Yue Liu", "Kavya Srinet", "Babak Damavandi", "Anuj Kumar"],
+    "venue": {"name": "EMNLP", "year": 2024, "remark": "(Industry Track) (* equal contribution)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2309.16058"
+    }
+  },
+  {
+    "title": "User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/uitl_mm_llm.png",
+    "authors": ["Mrinal Verghese", "Brian Chen", "Hamid Eghbalzadeh", "Tushar Nagarajan", "Ruta Desai"],
+    "venue": {"name": "WACV", "year": 2025},
+    "links": {
+      "paper": "https://www.arxiv.org/abs/2408.03160"
+    }
+  },
+  {
+    "title": "AMEGO: Active Memory from long EGOcentric videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/amego.png",
+    "authors": ["Gabriele Goletto", "Tushar Nagarajan", "Giuseppe Averta", "Dima Damen"],
+    "venue": {"name": "ECCV", "year": 2024},
+    "links": {
+      "paper": "https://arxiv.org/abs/2409.10917",
+      "project": "https://gabrielegoletto.github.io/AMEGO/"
+    }
+  },
+  {
+    "title": "Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/vidassist.png",
+    "authors": ["Md Mohaiminul Islam", "Tushar Nagarajan", "Huiyu Wang", "Fu-Jen Chu", "Kris Kitani", "Gedas Bertasius", "Xitong Yang"],
+    "venue": {"name": "ECCV", "year": 2024, "remark": "(**Oral**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2409.20557",
+      "project": "https://sites.google.com/view/vidassist"
+    }
+  },
+  {
+    "title": "Step Differences in Instructional Video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/stepdiff.png",
+    "authors": ["Tushar Nagarajan", "Lorenzo Torresani"],
+    "venue": {"name": "CVPR", "year": 2024},
+    "links": {
+      "paper": "https://arxiv.org/abs/2404.16222",
+      "data/code": "https://github.com/facebookresearch/stepdiff/"
+    }
+  },
+  {
+    "title": "Detours for Navigating Instructional Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/video_detours.png",
+    "authors": ["Kumar Ashutosh", "Zihui Xue", "Tushar Nagarajan", "Kristen Grauman"],
+    "venue": {"name": "CVPR", "year": 2024, "remark": "(**Highlight**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2401.01823",
+      "project": "https://vision.cs.utexas.edu/projects/detours/"
+    }
+  },
+  {
+    "title": "Video ReCap: Recursive Captioning of Hour-Long Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/video_recap.png",
+    "authors": ["Md Mohaiminul Islam", "Ngan Ho", "Xitong Yang", "Tushar Nagarajan", "Lorenzo Torresani", "Gedas Bertasius"],
+    "venue": {"name": "CVPR", "year": 2024},
+    "links": {
+      "paper": "https://arxiv.org/abs/2402.13250",
+      "code": "https://github.com/md-mohaiminul/VideoRecap"
+    }
+  },
+  {
+    "title": "Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egoexo4d.png",
+    "authors": ["Kristen Grauman", "Andrew Westbury", "Lorenzo Torresani", "Kris Kitani", "Jitendra Malik", "Tushar Nagarajan*", "et al."],
+    "venue": {"name": "CVPR", "year": 2024, "remark": "(**Oral**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2311.18259",
+      "project": "https://ego-exo4d-data.org/"
+    }
+  },
+  {
+    "title": "HT-Step: Aligning Instructional Articles with How-To Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/htstep.png",
+    "authors": ["Triantafyllos Afouras", "Effrosyni Mavroudi", "Tushar Nagarajan", "Huiyu Wang", "Lorenzo Torresani"],
+    "venue": {"name": "NeurIPS", "year": 2023},
+    "links": {
+      "paper": "https://openreview.net/forum?id=vv3cocNsEK",
+      "data/code": "https://github.com/facebookresearch/htstep"
+    }
+  },
+  {
+    "title": "Ego4D Goal-Step: Toward Hierarchical Understanding of Procedural Activities",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/goalstep.png",
+    "authors": ["Yale Song", "Eugene Byrne", "Tushar Nagarajan", "Huiyu Wang", "Miguel Martin", "Lorenzo Torresani"],
+    "venue": {"name": "NeurIPS", "year": 2023},
+    "links": {
+      "paper": "https://openreview.net/forum?id=3BxYAaovKr",
+      "code": "https://github.com/facebookresearch/ego4d-goalstep"
+    }
+  },
+  {
+    "title": "EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egodistill.png",
+    "authors": ["Shuhan Tan", "Tushar Nagarajan", "Kristen Grauman"],
+    "venue": {"name": "NeurIPS", "year": 2023},
+    "links": {
+      "paper": "https://arxiv.org/abs/2301.02217",
+      "project": "https://vision.cs.utexas.edu/projects/egodistill/"
+    }
+  },
+  {
+    "title": "EgoEnv: Human-centric environment representations from egocentric video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egoenv.png",
+    "authors": ["Tushar Nagarajan", "Santhosh K. Ramakrishnan", "Ruta Desai", "James Hillis", "Kristen Grauman"],
+    "venue": {"name": "NeurIPS", "year": 2023, "remark": "(**Oral**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2207.11365",
+      "project": "https://vision.cs.utexas.edu/projects/ego-env/",
+      "code": "https://github.com/facebookresearch/ego-env"
+    }
+  },
+  {
+    "title": "Ego4d: Around the world in 3,000 hours of egocentric video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/ego4d.png",
+    "authors": ["Kristen Grauman", "Andrew Westbury", "Tushar Nagarajan*", "et al."],
+    "venue": {"name": "CVPR", "year": 2022, "remark": "(**Oral**)"},
+    "notes": "TPAMI 2023 Invited article: Best Papers of CVPR",
+    "links": {
+      "paper": "https://arxiv.org/abs/2110.07058",
+      "project": "https://ego4d-data.org/"
+    }
+  },
+  {
+    "title": "Environment Predictive Coding for Visual Navigation",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/epc.png",
+    "authors": ["Santhosh K. Ramakrishnan", "Tushar Nagarajan", "Ziad Al-Halah", "Kristen Grauman"],
+    "venue": {"name": "ICLR", "year": 2022},
+    "links": {
+      "paper": "https://arxiv.org/abs/2102.02337",
+      "project": "https://vision.cs.utexas.edu/projects/epc/",
+      "code": "https://github.com/srama2512/EPC-SSL"
+    }
+  },
+  {
+    "title": "Shaping embodied agent behavior with activity-context priors from egocentric video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/activitycontext.png",
+    "authors": ["Tushar Nagarajan", "Kristen Grauman"],
+    "venue": {"name": "NeurIPS", "year": 2021, "remark": "(**Spotlight**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2110.07692",
+      "project": "https://vision.cs.utexas.edu/projects/ego-rewards/",
+      "talk": "https://vision.cs.utexas.edu/projects/ego-rewards/media/teaser.mp4"
+    }
+  },
+  {
+    "title": "Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egoexo.png",
+    "authors": ["Yanghao Li", "Tushar Nagarajan", "Bo Xiong", "Kristen Grauman"],
+    "venue": {"name": "CVPR", "year": 2021},
+    "links": {
+      "paper": "https://arxiv.org/abs/2104.07905",
+      "code": "https://github.com/facebookresearch/Ego-Exo"
+    }
+  },
+  {
+    "title": "Differentiable Causal Discovery Under Unmeasured Confounding",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/diffcausal.png",
+    "authors": ["Rohit Bhattacharya", "Tushar Nagarajan", "Daniel Malinsky", "Ilya Shpitser"],
+    "venue": {"name": "AISTATS", "year": 2021},
+    "links": {
+      "paper": "https://arxiv.org/abs/2010.06978",
+      "code": "https://gitlab.com/rbhatta8/dcd"
+    }
+  },
+  {
+    "title": "Learning Affordance Landscapes for Interaction Exploration in 3D Environments",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/intexp.png",
+    "authors": ["Tushar Nagarajan", "Kristen Grauman"],
+    "venue": {"name": "NeurIPS", "year": 2020, "remark": "(**Spotlight**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2008.09241",
+      "project": "https://vision.cs.utexas.edu/projects/interaction-exploration/",
+      "talk": "https://vision.cs.utexas.edu/projects/interaction-exploration/media/spotlight.mp4",
+      "code": "https://github.com/facebookresearch/interaction-exploration"
+    }
+  },
+  {
+    "title": "Ego-Topo: Environment Affordances from Egocentric Video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egotopo.png",
+    "authors": ["Tushar Nagarajan", "Yanghao Li", "Christoph Feichtenhofer", "Kristen Grauman"],
+    "venue": {"name": "CVPR", "year": 2020, "remark": "(**Oral**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2001.04583",
+      "project": "https://vision.cs.utexas.edu/projects/ego-topo/",
+      "talk": "https://www.youtube.com/watch?v=YTx4co3AIDY",
+      "code": "https://github.com/facebookresearch/ego-topo"
+    }
+  },
+  {
+    "title": "Grounded Human-Object Interaction Hotspots from Video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/hotspots.png",
+    "authors": ["Tushar Nagarajan", "Christoph Feichtenhofer", "Kristen Grauman"],
+    "venue": {"name": "ICCV", "year": 2019},
+    "links": {
+      "paper": "https://arxiv.org/abs/1812.04558",
+      "project": "https://vision.cs.utexas.edu/projects/interaction-hotspots/",
+      "code": "https://github.com/Tushar-N/interaction-hotspots"
+    }
+  },
+  {
+    "title": "Attributes as Operators: Factorizing Unseen Attribute-Object Compositions",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/attrop.png",
+    "authors": ["Tushar Nagarajan", "Kristen Grauman"],
+    "venue": {"name": "ECCV", "year": 2018},
+    "links": {
+      "paper": "https://arxiv.org/abs/1803.09851",
+      "code": "https://github.com/Tushar-N/attributes-as-operators"
+    }
+  },
+  {
+    "title": "BlockDrop: Dynamic Inference Paths in Residual Networks",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/blockdrop.png",
+    "authors": ["Zuxuan Wu*", "Tushar Nagarajan*", "Abhishek Kumar", "Steven Rennie", "Larry S. Davis", "Kristen Grauman", "Rogerio Feris"],
+    "venue": {"name": "CVPR", "year": 2018, "remark": "(**Spotlight**) (* equal contribution)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/1711.08393",
+      "code": "https://github.com/Tushar-N/blockdrop", "talk": "https://www.youtube.com/embed/sIkUzmgUaxc?start=2931&end=3172"
+    }
+  },
+  {
+    "title": "CANDiS: Coupled & Attention-Driven Neural Distant Supervision",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/candis.png",
+    "authors": ["Tushar Nagarajan", "Sharmistha Jat", "Partha Talukdar"],
+    "venue": {"name": "ACL", "year": 2017, "remark": "(Workshop)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/1710.09942"
+    }
+  },
+  {
+    "title": "Computational antimicrobial peptide design and evaluation against multidrug-resistant clinical isolates of bacteria",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/amplm.png",
+    "authors": ["Deepesh Nagarajan", "Tushar Nagarajan", "Natasha Roy", "Omkar Kulkarni", "Sathyabaarathi Ravichandran", "Madhulika Mishra", "Dipshikha Chakravortty", "Nagasuma Chandra"],
+    "venue": {"name": "JBC", "year": 2018},
+    "links": {
+      "paper": "https://www.jbc.org/content/early/2017/12/19/jbc.M117.805499.full.pdf",
+      "code": "https://github.com/Tushar-N/amp-lm"
+    }
+  }
+]
