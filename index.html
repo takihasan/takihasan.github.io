@@ -6,11 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Taki Hasan Rafi - Academic Website</title>
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/favicon-32x32.png">
-
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Open+Sans:wght@300;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="styles.css">
@@ -18,76 +15,57 @@
 
 <body>
     <div class="container">
-        <!-- Sidebar -->
-        <aside class="sidebar">
-            <img src="image.jpg" alt="Taki Hasan Rafi" class="profile-photo">
+        <!-- Header Section -->
+        <header class="header">
             <h1>Taki Hasan Rafi</h1>
-            <p>Ph.D. Student, Hanyang University</p>
-            <nav class="menu">
-                <ul>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#publications">Publications</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
-            <div class="social-links">
-                <a href="mailto:takihr@hanyang.ac.kr" title="Email"><i class="fas fa-envelope"></i></a>
-                <a href="https://github.com/takihasan" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/taki-hasan-rafi-80a9b2169" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
-                <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar"></i></a>
+            <h2>Ph.D. Student</h2>
+            <p>Department of AI, Hanyang University</p>
+        </header>
+
+        <!-- Profile Section -->
+        <section class="profile">
+            <div class="profile-photo">
+                <img src="profile.jpg" alt="Taki Hasan Rafi">
             </div>
-        </aside>
-
-        <!-- Main Content -->
-        <main class="content">
-            <section id="about">
-                <h2>About Me</h2>
+            <div class="contact-info">
+                <p><b>Email:</b> <a href="mailto:takihr@hanyang.ac.kr">takihr@hanyang.ac.kr</a></p>
+                <p><b>Phone:</b> +82-1234-5678</p>
+                <p><b>Office:</b> Hanyang University, Seoul</p>
                 <p>
-                    I am a Ph.D. student specializing in <b>Vision</b> and <b>Language</b>. My research focuses on developing AI systems that interpret and reason about visual and textual data in dynamic, real-world environments. I also work on <b>domain generalization</b>, <b>graph neural networks</b>, and <b>fairness in AI</b>.
+                    <a href="https://scholar.google.com/" target="_blank">Google Scholar</a> |
+                    <a href="https://github.com/takihasan" target="_blank">GitHub</a>
                 </p>
-            </section>
+            </div>
+        </section>
 
-            <section id="publications">
-                <h2>Publications</h2>
-                <ul>
-                    <li>
-                        <b>Instance-Aware Test-Time Adaptation for Domain Generalization</b><br>
-                        <i>Authors:</i> [List authors here] <br>
-                        <i>Venue:</i> [Publication venue here]
-                    </li>
-                    <li>
-                        <b>GReFEL: Geometry-Aware Reliable Facial Expression Learning under Bias and Imbalanced Data Distribution</b><br>
-                        <i>Authors:</i> [List authors here] <br>
-                        <i>Venue:</i> [Publication venue here]
-                    </li>
-                    <li>
-                        <b>MVTamperBench: Evaluating Robustness of Vision-Language Models</b><br>
-                        <i>Authors:</i> [List authors here] <br>
-                        <i>Venue:</i> [Publication venue here]
-                    </li>
-                    <li>
-                        <b>SweEval: Do LLMs Really Swear? A Benchmark for Testing Limits for Enterprise Use</b><br>
-                        <i>Authors:</i> [List authors here] <br>
-                        <i>Venue:</i> [Publication venue here]
-                    </li>
-                    <li>
-                        <b>VTA-MED: Visual-Text Alignment Prompting for Robust Medical Visual Question Answering</b><br>
-                        <i>Authors:</i> [List authors here] <br>
-                        <i>Venue:</i> [Publication venue here]
-                    </li>
-                </ul>
-            </section>
+        <!-- Bio Section -->
+        <section class="bio">
+            <h2>Bio</h2>
+            <p>
+                I am a Ph.D. student specializing in Vision and Language. My research focuses on developing AI systems 
+                that interpret and reason about visual and textual data in dynamic, real-world environments. I also 
+                work on domain generalization, graph neural networks, and fairness in AI.
+            </p>
+        </section>
 
-            <section id="contact">
-                <h2>Contact Me</h2>
-                <p>
-                    <b>Email:</b> <a href="mailto:takihr@hanyang.ac.kr">takihr@hanyang.ac.kr</a><br>
-                    <b>GitHub:</b> <a href="https://github.com/takihasan" target="_blank">github.com/takihasan</a><br>
-                    <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/taki-hasan-rafi-80a9b2169" target="_blank">Taki Hasan Rafi</a><br>
-                    <b>Google Scholar:</b> <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ" target="_blank">Scholar Profile</a>
-                </p>
-            </section>
-        </main>
+        <!-- News Section -->
+        <section class="news">
+            <h2>News</h2>
+            <ul>
+                <li>Our latest paper is accepted at VLDB 2025!</li>
+                <li>Four MEng students successfully graduated. Congratulations!</li>
+            </ul>
+        </section>
+
+        <!-- Current Advisees Section -->
+        <section class="advisees">
+            <h2>Current Advisees</h2>
+            <ul>
+                <li>Chengyuan Ma</li>
+                <li>Zixiang (Peter) Zhou</li>
+                <li>Wenqi Ding</li>
+            </ul>
+        </section>
     </div>
 </body>
 
