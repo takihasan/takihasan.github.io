@@ -2,92 +2,75 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Taki Hasan Rafi</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taki Hasan Rafi - Academic Portfolio</title>
 
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Roboto:wght@300;500&display=swap" rel="stylesheet">
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="styles.css" />
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;600&display=swap" rel="stylesheet" />
-
-    <!-- FontAwesome and Academicons -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
-      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
-      crossorigin="anonymous"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css"
-      integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
-      crossorigin="anonymous"
-    />
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <header id="header">
+    <header class="main-header">
         <div class="container">
-            <img src="image.jpg" alt="Taki Hasan Rafi" class="avatar" />
+            <img src="image.jpg" alt="Taki Hasan Rafi" class="profile-photo">
             <div class="header-text">
                 <h1>Taki Hasan Rafi</h1>
                 <p>
                     Ph.D. Student in Computer Science at 
-                    <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a><br />
-                    Affiliated with <a href="http://dilab.hanyang.ac.kr/">Data Intelligence Lab</a><br />
-                    Advised by <a href="https://dkchae.github.io/">Prof. D. K. Chae</a>
+                    <a href="https://www.hanyang.ac.kr/web/eng" target="_blank">Hanyang University</a><br>
+                    Affiliated with <a href="http://dilab.hanyang.ac.kr/" target="_blank">Data Intelligence Lab</a><br>
+                    Advised by <a href="https://dkchae.github.io/" target="_blank">Prof. D. K. Chae</a>
                 </p>
             </div>
         </div>
     </header>
 
-    <main id="content">
+    <main class="content">
         <section id="about">
             <h2>About Me</h2>
             <p>
-                I am a Ph.D. student specializing in <b>Vision</b> and <b>Language</b>. My research focuses on developing AI systems that interpret and reason about visual and textual data in dynamic, real-world environments.
-                Previously, I worked in <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Fair LLMs</b>. 
-            </p>
-            <p>
-                Check out my <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> for a full list of publications.
+                I am a Ph.D. student specializing in <b>Vision</b> and <b>Language</b>. My research focuses on developing AI systems that interpret and reason about visual and textual data in dynamic, real-world environments. I also work on <b>domain generalization</b>, <b>graph neural networks</b>, and <b>fairness in AI</b>.
             </p>
         </section>
 
         <section id="publications">
-            <h2>Publications</h2>
+            <h2>Selected Paper</h2>
             <ul>
+                  <li>
+                    <b>Towards Robust Vision and Language Models for Open-World Understanding</b><br>
+                    <i>Authors:</i> Taki Hasan Rafi <br>
+                    <i>Venue:</i> Ph.D. Dissertation
+                </li>
                 <li>
-                    <b>Instance-Aware Test-Time Adaptation for Domain Generalization</b><br />
-                    <i>Authors:</i> [List authors here] <br />
+                    <b>Instance-Aware Test-Time Adaptation for Domain Generalization</b><br>
+                    <i>Authors:</i> [List authors here] <br>
                     <i>Venue:</i> [Publication venue here]
                 </li>
                 <li>
-                    <b>GReFEL: Geometry-Aware Reliable Facial Expression Learning under Bias and Imbalanced Data Distribution</b><br />
-                    <i>Authors:</i> [List authors here] <br />
+                    <b>GReFEL: Geometry-Aware Reliable Facial Expression Learning under Bias and Imbalanced Data Distribution</b><br>
+                    <i>Authors:</i> [List authors here] <br>
                     <i>Venue:</i> [Publication venue here]
                 </li>
                 <li>
-                    <b>MVTamperBench: Evaluating Robustness of Vision-Language Models</b><br />
-                    <i>Authors:</i> [List authors here] <br />
+                    <b>MVTamperBench: Evaluating Robustness of Vision-Language Models</b><br>
+                    <i>Authors:</i> [List authors here] <br>
                     <i>Venue:</i> [Publication venue here]
                 </li>
                 <li>
-                    <b>SweEval: Do LLMs Really Swear? A Benchmark for Testing Limits for Enterprise Use</b><br />
-                    <i>Authors:</i> [List authors here] <br />
+                    <b>SweEval: Do LLMs Really Swear? A Benchmark for Testing Limits for Enterprise Use</b><br>
+                    <i>Authors:</i> [List authors here] <br>
                     <i>Venue:</i> [Publication venue here]
                 </li>
                 <li>
-                    <b>VTA-MED: Visual-Text Alignment Prompting for Robust Medical Visual Question Answering</b><br />
-                    <i>Authors:</i> [List authors here] <br />
+                    <b>VTA-MED: Visual-Text Alignment Prompting for Robust Medical Visual Question Answering</b><br>
+                    <i>Authors:</i> [List authors here] <br>
                     <i>Venue:</i> [Publication venue here]
                 </li>
             </ul>
@@ -95,14 +78,18 @@
 
         <section id="contact">
             <h2>Contact Me</h2>
-            <ul class="icons">
-                <li><a href="mailto:takihr@hanyang.ac.kr" title="E-Mail"><i class="fas fa-envelope"></i></a></li>
-                <li><a href="https://github.com/takihasan" title="GitHub"><i class="fab fa-github"></i></a></li>
-                <li><a href="https://www.linkedin.com/in/taki-hasan-rafi-80a9b2169/?originalSubdomain=kr" title="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
-                <li><a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+            <ul class="social-links">
+                <li><a href="mailto:takihr@hanyang.ac.kr"><i class="fas fa-envelope"></i> Email</a></li>
+                <li><a href="https://github.com/takihasan" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/taki-hasan-rafi-80a9b2169/?originalSubdomain=kr" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+                <li><a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a></li>
             </ul>
         </section>
     </main>
+
+    <footer class="footer">
+        <p>&copy; 2025 Taki Hasan Rafi. All rights reserved.</p>
+    </footer>
 </body>
 
 </html>
