@@ -1,84 +1,104 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
-  <head>
+<head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <!-- Define title -->
     <title>Taki Hasan Rafi</title>
 
-    <!-- Include favicon. Use, e.g., https://favicon.io/ -->
+    <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
 
-    <!-- Include style sheets -->
-    <link rel="stylesheet" href="main.css" />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
 
-    <!-- Fonts from Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;600&display=swap" rel="stylesheet" />
 
-    <!-- Load FontAwesome (for icons) -->
+    <!-- FontAwesome and Academicons -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
       integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
       crossorigin="anonymous"
     />
-
-    <!-- Load Academicons (for more icons) -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css"
       integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
       crossorigin="anonymous"
     />
-  </head>
+</head>
 
-  <body>
-    <section id="content">
-      <!-- Avatar image -->
-      <img src="image.jpg" alt="Taki Hasan Rafi" class="avatar" />
+<body>
+    <header id="header">
+        <img src="image.jpg" alt="Taki Hasan Rafi" class="avatar" />
+        <h1>Taki Hasan Rafi</h1>
+        <p>
+            Ph.D. Student in Computer Science at 
+            <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a><br />
+            Affiliated with <a href="http://dilab.hanyang.ac.kr/">Data Intelligence Lab</a><br />
+            Advised by <a href="https://dkchae.github.io/">Prof. D. K. Chae</a>
+        </p>
+    </header>
 
-      <!-- Text -->
-      <h1>Hi, I'm Taki Hasan Rafi!</h1>
-      <p>
-        I am a Ph.D. student in Computer Science at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>. I am affiliated with <a href="http://dilab.hanyang.ac.kr/">Data Intelligence Lab</a>, and advised by 
-        <a href="https://dkchae.github.io/">Prof. D. K. Chae</a>. Before joining Hanyang for Ph.D. in 2022, I 
-        received a bachelor's degree in Electrical Engineering from <a href="https://www.aust.edu/alumni">AUST</a> in 2021. 
-      </p>
-     
-        Most recently, my research projects focus on <b>V</b>ision-<b>L</b>anguage <b>M</b>odels</b> (VLMs, LLMs), with the main goal of achieving efficient and scalable (VLM, LLM) deployment. 
-        
-<!--         Previously, I worked in <b>Computer Vision</b> (<i>e.g.</i> domain generalization, reliability), <b>Machine Learning</b> (<i>e.g.</i> graphs, federated learning), and 
-        <b>Fair LLMs</b> (<i>e.g.</i> assessing cultural & religious biases).   -->
-      </p>
-      <p>
-        A full list of my recent publications can be found in <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>. Feel free to contact me! 
-      </p>
+    <main id="content">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>
+                I am a Ph.D. student specializing in <b>Vision</b> and <b>Language</b>. My research focuses on developing AI systems that interpret and reason about visual and textual data in dynamic, real-world environments.
+                Previously, I worked in <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Fair LLMs</b>. 
+            </p>
+            <p>
+                Check out my <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> for a full list of publications.
+            </p>
+        </section>
 
-      <!-- Icons -->
-      <ul class="icons">
-        <li>
-          <a href="mailto: takihr@hanyang.ac.kr" title="E-Mail"><i class="fas fa-envelope"></i></a>
-        </li>
-        <li>
-          <a href="https://github.com/takihasan" title="GitHub"><i class="fab fa-github"></i></a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/taki-hasan-rafi-80a9b2169/?originalSubdomain=kr" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-        </li>
-        <li>
-          <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-        </li>
-      </ul>
-    </section>
-  </body>
- 
+        <section id="publications">
+            <h2>Selected Papers</h2>
+            <ul>
+                <li>
+                    <b>Instance-Aware Test-Time Adaptation for Domain Generalization</b><br />
+                    <i>Authors:</i> [List authors here] <br />
+                    <i>Venue:</i> DASFAA 2025
+                </li>
+                <li>
+                    <b>GReFEL: Geometry-Aware Reliable Facial Expression Learning under Bias and Imbalanced Data Distribution</b><br />
+                    <i>Authors:</i> [List authors here] <br />
+                    <i>Venue:</i> ACCV 2024
+                </li>
+                <li>
+                    <b>MVTamperBench: Evaluating Robustness of Vision-Language Models</b><br />
+                    <i>Authors:</i> [List authors here] <br />
+                    <i>Venue:</i> ArXiv 2025
+                </li>
+                <li>
+                    <b>SweEval: Do LLMs Really Swear? A Benchmark for Testing Limits for Enterprise Use</b><br />
+                    <i>Authors:</i> [List authors here] <br />
+                    <i>Venue:</i> ArXiv 2025
+                </li>
+                <li>
+                    <b>VTA-MED: Visual-Text Alignment Prompting for Robust Medical Visual Question Answering</b><br />
+                    <i>Authors:</i> [List authors here] <br />
+                    <i>Venue:</i> ArXiv 2025
+                </li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <ul class="icons">
+                <li><a href="mailto:takihr@hanyang.ac.kr" title="E-Mail"><i class="fas fa-envelope"></i></a></li>
+                <li><a href="https://github.com/takihasan" title="GitHub"><i class="fab fa-github"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/taki-hasan-rafi-80a9b2169/?originalSubdomain=kr" title="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
+                <li><a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+
 </html>
