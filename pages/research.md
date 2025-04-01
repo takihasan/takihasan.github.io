@@ -5,6 +5,56 @@
 <tbody>
 
 <tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/vited.png"> </td>
+<td markdown="span">
+**VITED: Video Temporal Evidence Distillation**  
+Yujie Lu, Yale Song, Lorenzo Torresani, William Wang, <ins>Tushar Nagarajan</ins>  
+CVPR 2025  
+**[[paper]](https://arxiv.org/abs/2503.12855)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/bimba.png"> </td>
+<td markdown="span">
+**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**  
+Md Mohaiminul Islam, <ins>Tushar Nagarajan</ins>, Huiyu Wang, Gedas Bertasius, Lorenzo Torresani  
+CVPR 2025  
+**[[paper]](https://arxiv.org/abs/2503.09590)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/viewpoint_weaksup.png"> </td>
+<td markdown="span">
+**Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos**  
+Sagnik Majumder, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Reina Pradhan, Kristen Grauman  
+CVPR 2025  
+**[[paper]](https://arxiv.org/abs/2411.08753)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/expertaf.png"> </td>
+<td markdown="span">
+**ExpertAF: Expert Actionable Feedback from Video**  
+Kumar Ashutosh, <ins>Tushar Nagarajan</ins>, Georgios Pavlakos, Kris Kitani, Kristen Grauman  
+CVPR 2025  
+**[[paper]](https://arxiv.org/abs/2408.00672)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/vedit.png"> </td>
+<td markdown="span">
+**VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning**  
+Han Lin, <ins>Tushar Nagarajan</ins>, Nicolas Ballas, Mido Assran, Mojtaba Komeili, Mohit Bansal, Koustuv Sinha  
+ICLR 2025  
+**[[paper]](https://arxiv.org/abs/2410.03478)**
+</td>
+</tr>
+
+<tr>
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/anymal.png"> </td>
 <td markdown="span">
 **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**  
@@ -19,7 +69,7 @@ EMNLP 2024 (Industry Track) (* equal contribution)
 <td markdown="span">
 **User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance**  
 Mrinal Verghese, Brian Chen, Hamid Eghbalzadeh, <ins>Tushar Nagarajan</ins>, Ruta Desai  
-WACV 2025  
+WACV 2025 (**Oral**)  
 **[[paper]](https://www.arxiv.org/abs/2408.03160)**
 </td>
 </tr>

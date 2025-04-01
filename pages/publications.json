@@ -1,10 +1,38 @@
 [
   {
-    "title": "BIMBA: Selective-Scan Compression for Long-Range Video Question Answering",
-    "authors": ["Md Mohaiminul Islam", "Tushar Nagarajan", "Huiyu Wang", "Gedas Bertasius", "Lorenzo Torresani"],
-    "venue": {"name": "???", "year": null},
+    "title": "VITED: Video Temporal Evidence Distillation",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/vited.png",
+    "authors": ["Yujie Lu", "Yale Song", "Lorenzo Torresani", "William Wang", "Tushar Nagarajan"],
+    "venue": {"name": "CVPR", "year": 2025},
     "links": {
-      "paper": "???"
+      "paper": "https://arxiv.org/abs/2503.12855"
+    }
+  },
+  {
+    "title": "BIMBA: Selective-Scan Compression for Long-Range Video Question Answering",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/bimba.png",
+    "authors": ["Md Mohaiminul Islam", "Tushar Nagarajan", "Huiyu Wang", "Gedas Bertasius", "Lorenzo Torresani"],
+    "venue": {"name": "CVPR", "year": 2025},
+    "links": {
+      "paper": "https://arxiv.org/abs/2503.09590"
+    }
+  },
+  {
+    "title": "Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/viewpoint_weaksup.png",
+    "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Reina Pradhan", "Kristen Grauman"],
+    "venue": {"name": "CVPR", "year": 2025},
+    "links": {
+      "paper": "https://arxiv.org/abs/2411.08753"
+    }
+  },
+  {
+    "title": "ExpertAF: Expert Actionable Feedback from Video",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/expertaf.png",
+    "authors": ["Kumar Ashutosh", "Tushar Nagarajan", "Georgios Pavlakos", "Kris Kitani", "Kristen Grauman"],
+    "venue": {"name": "CVPR", "year": 2025},
+    "links": {
+      "paper": "https://arxiv.org/abs/2408.00672"
     }
   },
   {
@@ -12,15 +40,7 @@
     "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Kristen Grauman"],
     "venue": {"name": "???", "year": null},
     "links": {
-      "paper": "???"
-    }
-  },
-  {
-    "title": "Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos",
-    "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Reina Pradhan", "Kristen Grauman"],
-    "venue": {"name": "???", "year": null},
-    "links": {
-      "paper": "???"
+      "paper": "https://arxiv.org/abs/2412.18386"
     }
   },
   {
@@ -40,14 +60,6 @@
     }
   },
   {
-    "title": "VITED: Video Temporal Evidence Distillation",
-    "authors": ["Yujie Lu", "Yale Song", "Lorenzo Torresani", "William Wang", "Tushar Nagarajan"],
-    "venue": {"name": "???", "year": null},
-    "links": {
-      "paper": "???"
-    }
-  },
-  {
     "title": "Human Action Anticipation: A Survey",
     "authors": ["Bolin Lai", "Sam Toyer", "Tushar Nagarajan", "Rohit Girdhar", "Shengxin Zha", "James Rehg", "Kris Kitani", "Kristen Grauman", "Ruta Deasi", "Miao Liu"],
     "venue": {"name": "???", "year": null},
@@ -57,18 +69,11 @@
   },
   {
     "title": "VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/vedit.png",
     "authors": ["Han Lin", "Tushar Nagarajan", "Nicolas Ballas", "Mido Assran", "Mojtaba Komeili", "Mohit Bansal", "Koustuv Sinha"],
-    "venue": {"name": "???", "year": null},
+    "venue": {"name": "ICLR", "year": 2025},
     "links": {
-      "paper": "???"
-    }
-  },
-  {
-    "title": "ExpertAF: Expert Actionable Feedback from Video",
-    "authors": ["Kumar Ashutosh", "Tushar Nagarajan", "Georgios Pavlakos", "Kris Kitani", "Kristen Grauman"],
-    "venue": {"name": "???", "year": null},
-    "links": {
-      "paper": "???"
+      "paper": "https://arxiv.org/abs/2410.03478"
     }
   },
   {
@@ -76,7 +81,7 @@
     "authors": ["Zi-Yi Dou", "Xitong Yang", "Tushar Nagarajan", "Huiyu Wang", "Jing Huang", "Nanyun Peng", "Kris Kitani", "Fu-Jen Chu"],
     "venue": {"name": "???", "year": null},
     "links": {
-      "paper": "???"
+      "paper": "https://arxiv.org/abs/2408.03567"
     }
   },
   {
@@ -92,7 +97,7 @@
     "title": "User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/uitl_mm_llm.png",
     "authors": ["Mrinal Verghese", "Brian Chen", "Hamid Eghbalzadeh", "Tushar Nagarajan", "Ruta Desai"],
-    "venue": {"name": "WACV", "year": 2025},
+    "venue": {"name": "WACV", "year": 2025, "remark": "(**Oral**)"},
     "links": {
       "paper": "https://www.arxiv.org/abs/2408.03160"
     }
