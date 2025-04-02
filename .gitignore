@@ -4,4 +4,6 @@ _site/
 *~
 .DS_Store
 __pycache__
+Gemfile
+Gemfile.lock
 pages/cv.tex

@@ -85,21 +85,21 @@
     }
   },
   {
-    "title": "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
-    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/anymal.png",
-    "authors": ["Seungwhan Moon*", "Andrea Madotto*", "Zhaojiang Lin*", "Tushar Nagarajan*", "Matt Smith", "Shashank Jain", "Chun-Fu Yeh", "Prakash Murugesan", "Peyman Heidari", "Yue Liu", "Kavya Srinet", "Babak Damavandi", "Anuj Kumar"],
-    "venue": {"name": "EMNLP", "year": 2024, "remark": "(Industry Track) (* equal contribution)"},
-    "links": {
-      "paper": "https://arxiv.org/abs/2309.16058"
-    }
-  },
-  {
     "title": "User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/uitl_mm_llm.png",
     "authors": ["Mrinal Verghese", "Brian Chen", "Hamid Eghbalzadeh", "Tushar Nagarajan", "Ruta Desai"],
     "venue": {"name": "WACV", "year": 2025, "remark": "(**Oral**)"},
     "links": {
       "paper": "https://www.arxiv.org/abs/2408.03160"
+    }
+  },
+  {
+    "title": "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/anymal.png",
+    "authors": ["Seungwhan Moon*", "Andrea Madotto*", "Zhaojiang Lin*", "Tushar Nagarajan*", "Matt Smith", "Shashank Jain", "Chun-Fu Yeh", "Prakash Murugesan", "Peyman Heidari", "Yue Liu", "Kavya Srinet", "Babak Damavandi", "Anuj Kumar"],
+    "venue": {"name": "EMNLP", "year": 2024, "remark": "(Industry Track) (* equal contribution)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2309.16058"
     }
   },
   {

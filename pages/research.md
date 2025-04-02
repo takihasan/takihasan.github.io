@@ -55,22 +55,22 @@ ICLR 2025
 </tr>
 
 <tr>
-<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/anymal.png"> </td>
-<td markdown="span">
-**AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**  
-Seungwhan Moon\*, Andrea Madotto\*, Zhaojiang Lin\*, <ins>Tushar Nagarajan</ins>\*, Matt Smith, Shashank Jain, Chun-Fu Yeh, Prakash Murugesan, Peyman Heidari, Yue Liu, Kavya Srinet, Babak Damavandi, Anuj Kumar  
-EMNLP 2024 (Industry Track) (* equal contribution)  
-**[[paper]](https://arxiv.org/abs/2309.16058)**
-</td>
-</tr>
-
-<tr>
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/uitl_mm_llm.png"> </td>
 <td markdown="span">
 **User-in-the-loop Evaluation of Multimodal LLMs for Activity Assistance**  
 Mrinal Verghese, Brian Chen, Hamid Eghbalzadeh, <ins>Tushar Nagarajan</ins>, Ruta Desai  
 WACV 2025 (**Oral**)  
 **[[paper]](https://www.arxiv.org/abs/2408.03160)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/anymal.png"> </td>
+<td markdown="span">
+**AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**  
+Seungwhan Moon\*, Andrea Madotto\*, Zhaojiang Lin\*, <ins>Tushar Nagarajan</ins>\*, Matt Smith, Shashank Jain, Chun-Fu Yeh, Prakash Murugesan, Peyman Heidari, Yue Liu, Kavya Srinet, Babak Damavandi, Anuj Kumar  
+EMNLP 2024 (Industry Track) (* equal contribution)  
+**[[paper]](https://arxiv.org/abs/2309.16058)**
 </td>
 </tr>
 
