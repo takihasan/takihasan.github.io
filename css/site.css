@@ -2,20 +2,34 @@
 html {
   /*    background: @page-background;*/
 }
+/* Base body text style */
 body {
-  font: "Helvetica Neue", Helvetica, Arial, "Sans-Serif";
+  font-family: 'Merriweather', serif;
   width: 80%;
   min-width: 35em;
   max-width: 45em;
   margin: 1em auto;
-  font-weight: 200;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #222;
 }
+
+/* Headings with a modern, bold font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #111;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+
 a {
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
 }
+
 div#top-bar {
   position: absolute;
   top: 0;
@@ -33,14 +47,15 @@ div#top-bar div {
   margin: 0.1em auto;
   text-align: center;
 }
+
 div[role=main] {
   padding: 1em;
   margin: 0 auto;
 }
 div[role=main] img {
   position: relative;
-  /*        width: 100%;*/
 }
+
 #self {
   overflow: hidden;
   margin-bottom: 2em;
@@ -54,6 +69,7 @@ div[role=main] img {
   float: left;
   margin-right: 1.2em;
 }
+
 div.publication {
   margin-bottom: 1em;
   font-size: 85%;
@@ -64,12 +80,11 @@ div.publication .title {
   font-size: 115%;
 }
 div.publication .title a {
-  /*            text-decoration: none;*/
   color: #00B;
 }
 div.publication .subtitle {
   font-size: 115%;
-  font-weight: semibold;
+  font-weight: 600; /* semibold equivalent */
 }
 div.publication .self {
   font-weight: normal;
@@ -85,10 +100,12 @@ div.publication .thumb {
 div.publication .thumb img {
   max-width: 120px;
 }
+
 footer {
   text-align: center;
   font-size: 0.75em;
 }
+
 h1 {
   font-size: 3em;
   margin: 0.5em 0 0 0;
@@ -105,6 +122,7 @@ ol,
 ul {
   margin-top: 0;
 }
+
 .navbar {
   display: block;
   list-style: none;
@@ -117,6 +135,7 @@ ul {
   margin: 0 0.5em;
 }
 .navbar li a {
+  font-family: 'Poppins', sans-serif;
   font-size: 1.5em;
   text-decoration: none;
   color: #737373;
