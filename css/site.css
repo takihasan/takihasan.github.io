@@ -1,10 +1,6 @@
-/*@title-color: rgba(225, 55, 56, 0.9);*/
-html {
-  /*    background: @page-background;*/
-}
-/* Base body text style */
+/* Global typography */
 body {
-  font-family: 'Merriweather', serif;
+  font-family: 'Inter', sans-serif;
   width: 80%;
   min-width: 35em;
   max-width: 45em;
@@ -14,9 +10,8 @@ body {
   color: #222;
 }
 
-/* Headings with a modern, bold font */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   color: #111;
   margin-top: 1em;
@@ -84,7 +79,7 @@ div.publication .title a {
 }
 div.publication .subtitle {
   font-size: 115%;
-  font-weight: 600; /* semibold equivalent */
+  font-weight: 600;
 }
 div.publication .self {
   font-weight: normal;
@@ -135,7 +130,6 @@ ul {
   margin: 0 0.5em;
 }
 .navbar li a {
-  font-family: 'Poppins', sans-serif;
   font-size: 1.5em;
   text-decoration: none;
   color: #737373;
