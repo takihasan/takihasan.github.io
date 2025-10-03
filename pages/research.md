@@ -5,6 +5,40 @@
 <tbody>
 
 <tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/plm.png"> </td>
+<td markdown="span">
+**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**  
+Jang Hyun Cho\*, Andrea Madotto\*, Effrosyni Mavroudi\*, Triantafyllos Afouras\*, <ins>Tushar Nagarajan</ins>\*, Muhammad Maaz\*, Yale Song\*, Tengyu Ma\*, Shuming Hu\*<span class="more-text">, Suyog Jain, Miguel Martin, Huiyu Wang, Hanoona Rasheed, Peize Sun, Po-Yao Huang, Daniel Bolya, Nikhila Ravi, Shashank Jain, Tammy Stark, Shane Moon, Babak Damavandi, Vivian Lee, Andrew Westbury, Salman Khan, Philipp Krähenbühl, Piotr Dollár, Lorenzo Torresani, Kristen Grauman, Christoph Feichtenhofer</span>
+<button class="toggle-more" onclick="toggleMore(this)"> (+20 authors) </button>
+<button class="toggle-less" onclick="toggleLess(this)" style="display:none;"> (collapse) </button>  
+NeurIPS 2025 (**Spotlight**)  
+**[[paper]](https://arxiv.org/abs/2504.13180)
+[[code]](https://github.com/facebookresearch/perception_models?tab=readme-ov-file#perception-language-model-plm)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/switch_a_view.png"> </td>
+<td markdown="span">
+**Switch-a-View: Few-Shot View Selection Learned from Edited Videos**  
+Sagnik Majumder, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Kristen Grauman  
+ICCV 2025  
+**[[paper]](https://arxiv.org/abs/2412.18386)
+[[project]](https://vision.cs.utexas.edu/projects/switch_a_view/)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/egoadapt.png"> </td>
+<td markdown="span">
+**EgoAdapt: A Joint Distillation and Policy Learning Framework for Efficient Multisensory Egocentric Perception**  
+Sanjoy Chowdhury, Subrata Biswas, Sayan Nag, <ins>Tushar Nagarajan</ins>, Calvin Murdock, Ishwarya Ananthabhotla, Yijun Qian, Vamsi Krishna Ithapu, Dinesh Manocha, Ruohan Gao  
+ICCV 2025  
+**[[paper]](https://arxiv.org/abs/2506.21080)**
+</td>
+</tr>
+
+<tr>
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/vited.png"> </td>
 <td markdown="span">
 **VITED: Video Temporal Evidence Distillation**  
@@ -20,7 +54,9 @@ CVPR 2025
 **BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**  
 Md Mohaiminul Islam, <ins>Tushar Nagarajan</ins>, Huiyu Wang, Gedas Bertasius, Lorenzo Torresani  
 CVPR 2025  
-**[[paper]](https://arxiv.org/abs/2503.09590)**
+🏆 1st place: EgoSchema Challenge (CVPR 2025)  
+**[[paper]](https://arxiv.org/abs/2503.09590)
+[[project]](https://sites.google.com/view/bimba-mllm)**
 </td>
 </tr>
 
@@ -29,8 +65,9 @@ CVPR 2025
 <td markdown="span">
 **Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos**  
 Sagnik Majumder, <ins>Tushar Nagarajan</ins>, Ziad Al-Halah, Reina Pradhan, Kristen Grauman  
-CVPR 2025  
-**[[paper]](https://arxiv.org/abs/2411.08753)**
+CVPR 2025 (**Highlight**)  
+**[[paper]](https://arxiv.org/abs/2411.08753)
+[[project]](https://vision.cs.utexas.edu/projects/which-view-shows-it-best/)**
 </td>
 </tr>
 
@@ -40,7 +77,8 @@ CVPR 2025
 **ExpertAF: Expert Actionable Feedback from Video**  
 Kumar Ashutosh, <ins>Tushar Nagarajan</ins>, Georgios Pavlakos, Kris Kitani, Kristen Grauman  
 CVPR 2025  
-**[[paper]](https://arxiv.org/abs/2408.00672)**
+**[[paper]](https://arxiv.org/abs/2408.00672)
+[[project]](https://vision.cs.utexas.edu/projects/ExpertAF/)**
 </td>
 </tr>
 
@@ -124,6 +162,7 @@ CVPR 2024 (**Highlight**)
 **Video ReCap: Recursive Captioning of Hour-Long Videos**  
 Md Mohaiminul Islam, Ngan Ho, Xitong Yang, <ins>Tushar Nagarajan</ins>, Lorenzo Torresani, Gedas Bertasius  
 CVPR 2024  
+🏆 EgoVis Distinguished Paper Award (2025)  
 **[[paper]](https://arxiv.org/abs/2402.13250)
 [[code]](https://github.com/md-mohaiminul/VideoRecap)**
 </td>
@@ -133,7 +172,9 @@ CVPR 2024
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/egoexo4d.png"> </td>
 <td markdown="span">
 **Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives**  
-Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, <ins>Tushar Nagarajan</ins>\*, et al.  
+Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, <ins>Tushar Nagarajan</ins>\*<span class="more-text">, Triantafyllos Afouras\*, Kumar Ashutosh\*, Vijay Baiyya\*, Siddhant Bansal\*, Bikram Boote\*, Eugene Byrne\*, Zach Chavis\*, Joya Chen\*, Feng Cheng\*, Fu-Jen Chu\*, Sean Crane\*, Avijit Dasgupta\*, Jing Dong\*, Maria Escobar\*, Cristhian Forigua\*, Abrham Gebreselasie\*, Sanjay Haresh\*, Jing Huang\*, Md Mohaiminul Islam\*, Suyog Jain\*, Rawal Khirodkar\*, Devansh Kukreja\*, Kevin J Liang\*, Jia-Wei Liu\*, Sagnik Majumder\*, Yongsen Mao\*, Miguel Martin\*, Effrosyni Mavroudi\*, Francesco Ragusa\*, Santhosh Kumar Ramakrishnan\*, Luigi Seminara\*, Arjun Somayazulu\*, Yale Song\*, Shan Su\*, Zihui Xue\*, Edward Zhang\*, Jinxu Zhang, Angela Castillo, Changan Chen, Xinzhu Fu, Ryosuke Furuta, Cristina Gonzalez, Prince Gupta, Jiabo Hu, Yifei Huang, Yiming Huang, Weslie Khoo, Anush Kumar, Robert Kuo, Sach Lakhavani, Miao Liu, Mi Luo, Zhengyi Luo, Brighid Meredith, Austin Miller, Oluwatumininu Oguntola, Xiaqing Pan, Penny Peng, Shraman Pramanick, Merey Ramazanova, Fiona Ryan, Wei Shan, Kiran Somasundaram, Chenan Song, Audrey Southerland, Masatoshi Tateno, Huiyu Wang, Yuchen Wang, Takuma Yagi, Mingfei Yan, Xitong Yang, Zecheng Yu, Shengxin Cindy Zha, Chen Zhao, Ziwei Zhao, Zhifan Zhu, Jeff Zhuo, Pablo Arbelaez, Gedas Bertasius, David Crandall, Dima Damen, Jakob Engel, Giovanni Maria Farinella, Antonino Furnari, Bernard Ghanem, Judy Hoffman, C. V. Jawahar, Richard Newcombe, Hyun Soo Park, James M. Rehg, Yoichi Sato, Manolis Savva, Jianbo Shi, Mike Zheng Shou, Michael Wray</span>
+<button class="toggle-more" onclick="toggleMore(this)"> (+95 authors) </button>
+<button class="toggle-less" onclick="toggleLess(this)" style="display:none;"> (collapse) </button>  
 CVPR 2024 (**Oral**)  
 **[[paper]](https://arxiv.org/abs/2311.18259)
 [[project]](https://ego-exo4d-data.org/)**
@@ -157,6 +198,7 @@ NeurIPS 2023
 **Ego4D Goal-Step: Toward Hierarchical Understanding of Procedural Activities**  
 Yale Song, Eugene Byrne, <ins>Tushar Nagarajan</ins>, Huiyu Wang, Miguel Martin, Lorenzo Torresani  
 NeurIPS 2023  
+🏆 EgoVis Distinguished Paper Award (2025)  
 **[[paper]](https://openreview.net/forum?id=3BxYAaovKr)
 [[code]](https://github.com/facebookresearch/ego4d-goalstep)**
 </td>
@@ -189,9 +231,11 @@ NeurIPS 2023 (**Oral**)
 <td class="img"> <img src="https://tushar-n.s3.amazonaws.com/thumbnails/ego4d.png"> </td>
 <td markdown="span">
 **Ego4d: Around the world in 3,000 hours of egocentric video**  
-Kristen Grauman, Andrew Westbury, <ins>Tushar Nagarajan</ins>\*, et al.  
-CVPR 2022 (**Oral**)
-TPAMI 2023 Invited article: Best Papers of CVPR    
+Kristen Grauman, Andrew Westbury, <ins>Tushar Nagarajan</ins>\*<span class="more-text">, Eugene Byrne\*, Zachary Chavis\*, Antonino Furnari\*, Rohit Girdhar\*, Jackson Hamburger\*, Hao Jiang\*, Miao Liu\*, Xingyu Liu\*, Miguel Martin\*, Ilija Radosavovic\*, Santhosh Kumar Ramakrishnan\*, Fiona Ryan\*, Jayant Sharma\*, Michael Wray\*, Mengmeng Xu\*, Eric Zhongcong Xu\*, Chen Zhao\*, Siddhant Bansal, Dhruv Batra, Vincent Cartillier, Sean Crane, Tien Do, Morrie Doulaty, Akshay Erapalli, Christoph Feichtenhofer, Adriano Fragomeni, Qichen Fu, Abrham Gebreselasie, Cristina Gonzalez, James Hillis, Xuhua Huang, Yifei Huang, Wenqi Jia, Weslie Khoo, Jachym Kolar, Satwik Kottur, Anurag Kumar, Federico Landini, Chao Li, Yanghao Li, Zhenqiang Li, Karttikeya Mangalam, Raghava Modhugu, Jonathan Munro, Tullie Murrell, Takumi Nishiyasu, Will Price, Paola Ruiz Puentes, Merey Ramazanova, Leda Sari, Kiran Somasundaram, Audrey Southerland, Yusuke Sugano, Ruijie Tao, Minh Vo, Yuchen Wang, Xindi Wu, Takuma Yagi, Ziwei Zhao, Yunyi Zhu, Pablo Arbelaez, David Crandall, Dima Damen, Giovanni Maria Farinella, Christian Fuegen, Bernard Ghanem, Vamsi Krishna Ithapu, C. V. Jawahar, Hanbyul Joo, Kris Kitani, Haizhou Li, Richard Newcombe, Aude Oliva, Hyun Soo Park, James M. Rehg, Yoichi Sato, Jianbo Shi, Mike Zheng Shou, Antonio Torralba, Lorenzo Torresani, Mingfei Yan, Jitendra Malik</span>
+<button class="toggle-more" onclick="toggleMore(this)"> (+82 authors) </button>
+<button class="toggle-less" onclick="toggleLess(this)" style="display:none;"> (collapse) </button>  
+CVPR 2022 (**Oral**)  
+TPAMI 2023 Invited article: Best Papers of CVPR  
 **[[paper]](https://arxiv.org/abs/2110.07058)
 [[project]](https://ego4d-data.org/)**
 </td>

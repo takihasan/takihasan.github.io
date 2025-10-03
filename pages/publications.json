@@ -1,5 +1,44 @@
 [
   {
+    "title": "Latent Action Robot Foundation World Models for Cross-Embodiment Adaptation",
+    "thumbnail": "???",
+    "authors": ["Huang Huang", "Sriram Yenamandra", "Arjun Majumdar", "Elie Aljalbout", "Tushar Nagarajan", "Tsung-Yen Yang", "Akshara Rai", "Michael Rabbat", "Li Fei-Fei", "Jiajun Wu", "Tingfan Wu", "Franziska Meier"],
+    "venue": {"name": "???", "year": null},
+    "links": {
+      "paper": "???",
+    }
+  },
+  {
+    "title": "PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/plm.png",
+    "authors": ["Jang Hyun Cho*", "Andrea Madotto*", "Effrosyni Mavroudi*", "Triantafyllos Afouras*", "Tushar Nagarajan*", "Muhammad Maaz*", "Yale Song*", "Tengyu Ma*", "Shuming Hu*"],
+    "extra_authors": ["Suyog Jain", "Miguel Martin", "Huiyu Wang", "Hanoona Rasheed", "Peize Sun", "Po-Yao Huang", "Daniel Bolya", "Nikhila Ravi", "Shashank Jain", "Tammy Stark", "Shane Moon", "Babak Damavandi", "Vivian Lee", "Andrew Westbury", "Salman Khan", "Philipp Krähenbühl", "Piotr Dollár", "Lorenzo Torresani", "Kristen Grauman", "Christoph Feichtenhofer"],
+    "venue": {"name": "NeurIPS", "year": 2025, "remark": "(**Spotlight**)"},
+    "links": {
+      "paper": "https://arxiv.org/abs/2504.13180",
+      "code": "https://github.com/facebookresearch/perception_models?tab=readme-ov-file#perception-language-model-plm"
+    }
+  },
+  {
+    "title": "Switch-a-View: Few-Shot View Selection Learned from Edited Videos",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/switch_a_view.png",
+    "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Kristen Grauman"],
+    "venue": {"name": "ICCV", "year": 2025},
+    "links": {
+      "paper": "https://arxiv.org/abs/2412.18386",
+      "project": "https://vision.cs.utexas.edu/projects/switch_a_view/"
+    }
+  },
+  {
+    "title": "EgoAdapt: A Joint Distillation and Policy Learning Framework for Efficient Multisensory Egocentric Perception",
+    "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egoadapt.png",
+    "authors": ["Sanjoy Chowdhury", "Subrata Biswas", "Sayan Nag", "Tushar Nagarajan", "Calvin Murdock", "Ishwarya Ananthabhotla", "Yijun Qian", "Vamsi Krishna Ithapu", "Dinesh Manocha", "Ruohan Gao"],
+    "venue": {"name": "ICCV", "year": 2025},
+    "links": {
+      "paper": "https://arxiv.org/abs/2506.21080"
+    }
+  },
+  {
     "title": "VITED: Video Temporal Evidence Distillation",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/vited.png",
     "authors": ["Yujie Lu", "Yale Song", "Lorenzo Torresani", "William Wang", "Tushar Nagarajan"],
@@ -13,17 +52,20 @@
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/bimba.png",
     "authors": ["Md Mohaiminul Islam", "Tushar Nagarajan", "Huiyu Wang", "Gedas Bertasius", "Lorenzo Torresani"],
     "venue": {"name": "CVPR", "year": 2025},
+    "notes": "🏆 1st place: EgoSchema Challenge (CVPR 2025)",
     "links": {
-      "paper": "https://arxiv.org/abs/2503.09590"
+      "paper": "https://arxiv.org/abs/2503.09590",
+      "project": "https://sites.google.com/view/bimba-mllm"
     }
   },
   {
     "title": "Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Instructional Videos",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/viewpoint_weaksup.png",
     "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Reina Pradhan", "Kristen Grauman"],
-    "venue": {"name": "CVPR", "year": 2025},
+    "venue": {"name": "CVPR", "year": 2025, "remark": "(**Highlight**)"},
     "links": {
-      "paper": "https://arxiv.org/abs/2411.08753"
+      "paper": "https://arxiv.org/abs/2411.08753",
+      "project": "https://vision.cs.utexas.edu/projects/which-view-shows-it-best/"
     }
   },
   {
@@ -32,28 +74,13 @@
     "authors": ["Kumar Ashutosh", "Tushar Nagarajan", "Georgios Pavlakos", "Kris Kitani", "Kristen Grauman"],
     "venue": {"name": "CVPR", "year": 2025},
     "links": {
-      "paper": "https://arxiv.org/abs/2408.00672"
-    }
-  },
-  {
-    "title": "Switch-a-View: Few-Shot View Selection Learned from Edited Videos",
-    "authors": ["Sagnik Majumder", "Tushar Nagarajan", "Ziad Al-Halah", "Kristen Grauman"],
-    "venue": {"name": "???", "year": null},
-    "links": {
-      "paper": "https://arxiv.org/abs/2412.18386"
+      "paper": "https://arxiv.org/abs/2408.00672",
+      "project": "https://vision.cs.utexas.edu/projects/ExpertAF/"
     }
   },
   {
     "title": "SPOC: Spatially-Progressing Object State Change Segmentation in Video",
     "authors": ["Priyanka Mandikal", "Tushar Nagarajan", "Alex Stoken", "Zihui Xue", "Kristen Grauman"],
-    "venue": {"name": "???", "year": null},
-    "links": {
-      "paper": "???"
-    }
-  },
-  {
-    "title": "EgoAdapt: A Joint Distillation and Policy Learning Framework for Efficient Multisensory Egocentric Perception",
-    "authors": ["Sanjoy Chowdhury", "Subrata Biswas", "Sayan Nag", "Tushar Nagarajan", "Calvin Murdock", "Ishwarya Ananthabhotla", "Yijun Qian", "Vamsi Krishna Ithapu", "Dinesh Manocha", "Ruohan Gao"],
     "venue": {"name": "???", "year": null},
     "links": {
       "paper": "???"
@@ -146,6 +173,7 @@
     "title": "Video ReCap: Recursive Captioning of Hour-Long Videos",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/video_recap.png",
     "authors": ["Md Mohaiminul Islam", "Ngan Ho", "Xitong Yang", "Tushar Nagarajan", "Lorenzo Torresani", "Gedas Bertasius"],
+    "notes": "🏆 EgoVis Distinguished Paper Award (2025)",
     "venue": {"name": "CVPR", "year": 2024},
     "links": {
       "paper": "https://arxiv.org/abs/2402.13250",
@@ -155,7 +183,8 @@
   {
     "title": "Ego-Exo4D: Understanding Skilled Human Activity from First-and Third-Person Perspectives",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/egoexo4d.png",
-    "authors": ["Kristen Grauman", "Andrew Westbury", "Lorenzo Torresani", "Kris Kitani", "Jitendra Malik", "Tushar Nagarajan*", "et al."],
+    "authors": ["Kristen Grauman", "Andrew Westbury", "Lorenzo Torresani", "Kris Kitani", "Jitendra Malik", "Tushar Nagarajan*"],
+    "extra_authors": ["Triantafyllos Afouras*", "Kumar Ashutosh*", "Vijay Baiyya*", "Siddhant Bansal*", "Bikram Boote*", "Eugene Byrne*", "Zach Chavis*", "Joya Chen*", "Feng Cheng*", "Fu-Jen Chu*", "Sean Crane*", "Avijit Dasgupta*", "Jing Dong*", "Maria Escobar*", "Cristhian Forigua*", "Abrham Gebreselasie*", "Sanjay Haresh*", "Jing Huang*", "Md Mohaiminul Islam*", "Suyog Jain*", "Rawal Khirodkar*", "Devansh Kukreja*", "Kevin J Liang*", "Jia-Wei Liu*", "Sagnik Majumder*", "Yongsen Mao*", "Miguel Martin*", "Effrosyni Mavroudi*", "Francesco Ragusa*", "Santhosh Kumar Ramakrishnan*", "Luigi Seminara*", "Arjun Somayazulu*", "Yale Song*", "Shan Su*", "Zihui Xue*", "Edward Zhang*", "Jinxu Zhang", "Angela Castillo", "Changan Chen", "Xinzhu Fu", "Ryosuke Furuta", "Cristina Gonzalez", "Prince Gupta", "Jiabo Hu", "Yifei Huang", "Yiming Huang", "Weslie Khoo", "Anush Kumar", "Robert Kuo", "Sach Lakhavani", "Miao Liu", "Mi Luo", "Zhengyi Luo", "Brighid Meredith", "Austin Miller", "Oluwatumininu Oguntola", "Xiaqing Pan", "Penny Peng", "Shraman Pramanick", "Merey Ramazanova", "Fiona Ryan", "Wei Shan", "Kiran Somasundaram", "Chenan Song", "Audrey Southerland", "Masatoshi Tateno", "Huiyu Wang", "Yuchen Wang", "Takuma Yagi", "Mingfei Yan", "Xitong Yang", "Zecheng Yu", "Shengxin Cindy Zha", "Chen Zhao", "Ziwei Zhao", "Zhifan Zhu", "Jeff Zhuo", "Pablo Arbelaez", "Gedas Bertasius", "David Crandall", "Dima Damen", "Jakob Engel", "Giovanni Maria Farinella", "Antonino Furnari", "Bernard Ghanem", "Judy Hoffman", "C. V. Jawahar", "Richard Newcombe", "Hyun Soo Park", "James M. Rehg", "Yoichi Sato", "Manolis Savva", "Jianbo Shi", "Mike Zheng Shou", "Michael Wray"],
     "venue": {"name": "CVPR", "year": 2024, "remark": "(**Oral**)"},
     "links": {
       "paper": "https://arxiv.org/abs/2311.18259",
@@ -177,6 +206,7 @@
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/goalstep.png",
     "authors": ["Yale Song", "Eugene Byrne", "Tushar Nagarajan", "Huiyu Wang", "Miguel Martin", "Lorenzo Torresani"],
     "venue": {"name": "NeurIPS", "year": 2023},
+    "notes": "🏆 EgoVis Distinguished Paper Award (2025)",
     "links": {
       "paper": "https://openreview.net/forum?id=3BxYAaovKr",
       "code": "https://github.com/facebookresearch/ego4d-goalstep"
@@ -206,7 +236,8 @@
   {
     "title": "Ego4d: Around the world in 3,000 hours of egocentric video",
     "thumbnail": "https://tushar-n.s3.amazonaws.com/thumbnails/ego4d.png",
-    "authors": ["Kristen Grauman", "Andrew Westbury", "Tushar Nagarajan*", "et al."],
+    "authors": ["Kristen Grauman", "Andrew Westbury", "Tushar Nagarajan*"],
+    "extra_authors": ["Eugene Byrne*", "Zachary Chavis*", "Antonino Furnari*", "Rohit Girdhar*", "Jackson Hamburger*", "Hao Jiang*", "Miao Liu*", "Xingyu Liu*", "Miguel Martin*", "Ilija Radosavovic*", "Santhosh Kumar Ramakrishnan*", "Fiona Ryan*", "Jayant Sharma*", "Michael Wray*", "Mengmeng Xu*", "Eric Zhongcong Xu*", "Chen Zhao*", "Siddhant Bansal", "Dhruv Batra", "Vincent Cartillier", "Sean Crane", "Tien Do", "Morrie Doulaty", "Akshay Erapalli", "Christoph Feichtenhofer", "Adriano Fragomeni", "Qichen Fu", "Abrham Gebreselasie", "Cristina Gonzalez", "James Hillis", "Xuhua Huang", "Yifei Huang", "Wenqi Jia", "Weslie Khoo", "Jachym Kolar", "Satwik Kottur", "Anurag Kumar", "Federico Landini", "Chao Li", "Yanghao Li", "Zhenqiang Li", "Karttikeya Mangalam", "Raghava Modhugu", "Jonathan Munro", "Tullie Murrell", "Takumi Nishiyasu", "Will Price", "Paola Ruiz Puentes", "Merey Ramazanova", "Leda Sari", "Kiran Somasundaram", "Audrey Southerland", "Yusuke Sugano", "Ruijie Tao", "Minh Vo", "Yuchen Wang", "Xindi Wu", "Takuma Yagi", "Ziwei Zhao", "Yunyi Zhu", "Pablo Arbelaez", "David Crandall", "Dima Damen", "Giovanni Maria Farinella", "Christian Fuegen", "Bernard Ghanem", "Vamsi Krishna Ithapu", "C. V. Jawahar", "Hanbyul Joo", "Kris Kitani", "Haizhou Li", "Richard Newcombe", "Aude Oliva", "Hyun Soo Park", "James M. Rehg", "Yoichi Sato", "Jianbo Shi", "Mike Zheng Shou", "Antonio Torralba", "Lorenzo Torresani", "Mingfei Yan", "Jitendra Malik"],
     "venue": {"name": "CVPR", "year": 2022, "remark": "(**Oral**)"},
     "notes": "TPAMI 2023 Invited article: Best Papers of CVPR",
     "links": {
