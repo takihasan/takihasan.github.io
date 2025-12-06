@@ -19,7 +19,7 @@ WACV 2026<br>
 <td markdown="span">
 **Towards Robust Continual Test-Time Adaptation via Neighbor Filtration**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-CIKM 2025
+CIKM 2025<br>
 **[[paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3760858)**
 </td>
 </tr>
