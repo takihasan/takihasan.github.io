@@ -1,4 +1,5 @@
-# Publications
+# Selected Papers
+Full List is here: 
 ---
 
 <table class="researchtable">
