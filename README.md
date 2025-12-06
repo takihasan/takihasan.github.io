@@ -1,2 +1,2 @@
-Template adapted from [svmiller](https://github.com/svmiller/steve-ngvb-jekyll-template)
+Template adapted from [Tushar Nagarajan](https://tushar-n.github.io/)
 
