@@ -1,6 +1,6 @@
 # Selected Papers
 Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate">here</a>!
----
+
 
 <table class="researchtable">
 <tbody>
