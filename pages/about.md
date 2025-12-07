@@ -13,7 +13,8 @@ href="https://www.linkedin.com/feed/">
 href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate">
 <i class="ai ai-google-scholar" style="font-size:48px;"></i>
 
-**Contact**: takihr@hanyang.ac.kr (Official) | takihasanrafi@gmail.com (Permanent)    
+**Contact**: takihr@hanyang.ac.kr (Official) | takihasanrafi@gmail.com (Permanent)
+**Office**: 709, R&D Building-I, Hanyang University, 222 Wangsimni-ro, Seongdong-gu, Seoul    
 **CV**: [Link](https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view)
 
-I am open for postdoctoral research positions within the **academia** in trustworthy multimodal AI. If you are hiring, please reach out! 
+I am open for postdoctoral / research scientist positions within the **academia** in trustworthy multimodal AI. If you are hiring, please reach out! 
