@@ -1,6 +1,7 @@
 [
   {
     "title": "Learning from Unknown for Open-Set Test-Time Adaptation",
+    "thumbnail": "???",
     "authors": ["Taki Hasan Rafi", "Amit Agarwal", "Hitesh Patel", "Dong-Kyu Chae"],
     "venue": {"name": "WACV", "year": 2026},
     "links": {
@@ -9,6 +10,7 @@
   },
   {
     "title": "Towards Robust Continual Test-Time Adaptation via Neighbor Filtration",
+    "thumbnail": "???",
     "authors": ["Taki Hasan Rafi", "Amit Agarwal", "Hitesh Patel", "Dong-Kyu Chae"],
     "venue": {"name": "CIKM", "year": 2025},
     "links": {
@@ -17,6 +19,7 @@
   },
 {
   "title": "Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia",
+  "thumbnail": "???",
   "authors": [
     "Samuel Cahyawijaya",
     "Holy Lovenia",
@@ -118,6 +121,7 @@
 },
   {
     "title": "MVTamperBench: Evaluating Robustness of Vision-Language Models",
+    "thumbnail": "???",
     "authors": ["Amit Agarwal", "Srikant Panda", "Angeline Charles", "Bhargava Kumar", "Hitesh Patel", "Priyaranjan Pattnayak", "Taki Hasan Rafi", "Tejaswini Kumar", "Hansa Meghwani", "Karan Gupta", "Dong-Kyu Chae"],
     "venue": {"name": "ACL", "year": 2025, "remark": "Findings"},
     "links": {
@@ -126,6 +130,7 @@
   },
   {
     "title": "SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use",
+    "thumbnail": "???",
     "authors": ["Hitesh Laxmichand Patel", "Amit Agarwal", "Arion Das", "Bhargava Kumar", "Srikant Panda", "Priyaranjan Pattnayak", "Taki Hasan Rafi", "Tejaswini Kumar", "Dong-Kyu Chae"],
     "venue": {"name": "NAACL", "year": 2025, "remark": "Industry"},
     "links": {
