@@ -10,7 +10,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <td markdown="span">
 **Learning from Unknown for Open-Set Test-Time Adaptation**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-WACV 2026<br> 
+WACV 2026 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br> 
 **[[paper]](Coming Soon)**
 </td>
 </tr>
