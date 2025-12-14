@@ -31,7 +31,7 @@ CIKM 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radiu
 **Instance-Aware Test-Time Adaptation for Domain Generalization**  
 <ins>Taki Hasan Rafi</ins>, Karlo Serbetar, Amit Agarwal, Hitesh L. Patel, Bhargava Kumar, Dong-Kyu Chae<br>
 DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br>
-**[[paper]](hhttps://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view?usp=sharing)**
+**[[paper]](hhttps://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
 </td>
 </tr>
 
