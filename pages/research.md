@@ -25,15 +25,7 @@ CIKM 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radiu
 </td>
 </tr>
 
-<tr>
-<td class="img"> <img src="images/DASFAA.png"> </td>
-<td markdown="span">
-**Instance-Aware Test-Time Adaptation for Domain Generalization**  
-<ins>Taki Hasan Rafi</ins>, Karlo Serbetar, Amit Agarwal, Hitesh L. Patel, Bhargava Kumar, Dong-Kyu Chae<br>
-DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br>
-**[[paper]](https://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
-</td>
-</tr>
+
 
 <tr>
 <td class="img"> <img src="images/ACL.png"> </td>
@@ -64,6 +56,16 @@ ACL 2025 (Findings) <span style="background-color: #dfdaf7; padding: 3px 6px; bo
 Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Dong-Kyu Chae<br>
 NAACL 2025 (Industry) <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">safety</span><br>
 **[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
+</td>
+</tr>
+
+<tr>
+<td class="img"> <img src="images/DASFAA.png"> </td>
+<td markdown="span">
+**Instance-Aware Test-Time Adaptation for Domain Generalization**  
+<ins>Taki Hasan Rafi</ins>, Karlo Serbetar, Amit Agarwal, Hitesh L. Patel, Bhargava Kumar, Dong-Kyu Chae<br>
+DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br>
+**[[paper]](https://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
 </td>
 </tr>
 
