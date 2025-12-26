@@ -27,7 +27,7 @@ CIKM 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radiu
 
 
 
-<!-- <tr>
+<tr>
 <td class="img"> <img src="images/ACL.png"> </td>
 <td markdown="span">
 **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**  
@@ -37,7 +37,7 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 🏆 ACL 2025 (**Oral**) <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">safety</span><br>
 **[[paper]](https://aclanthology.org/2025.acl-long.916/)**
 </td>
-</tr> -->
+</tr>
 
 <tr>
 <td class="img"> <img src="images/MV_ACL.png"> </td>
