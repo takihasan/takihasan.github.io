@@ -47,7 +47,7 @@ More specifically, my Ph.D. research includes:
 <strong>Contact</strong>: takihr@hanyang.ac.kr (Official) |
 takihasanrafi@gmail.com (Permanent)<br>
 <strong>Office</strong>: 709, R&amp;D Building-I, Hanyang University,
-222 Wangsimni-ro, Seongdong-gu, Seoul<br>
+222 Wangsimni-ro, Seongdong-gu, Seoul 04763<br>
 <!-- <strong>CV</strong>:
 <a href="https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view"
    target="_blank"
