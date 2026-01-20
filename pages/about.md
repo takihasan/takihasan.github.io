@@ -3,30 +3,8 @@
      style="width:180px; float:right; margin-left:20px;" />
 
 <p>
-I am a Ph.D. Candidate in Computer Science at
-<a href="https://www.hanyang.ac.kr/web/eng" target="_blank" rel="noopener">
-Hanyang University
-</a>,
-working in the
-<a href="http://dilab.hanyang.ac.kr/" target="_blank" rel="noopener">
-Data Intelligence Lab
-</a>
-with
-<a href="https://dkchae.github.io/" target="_blank" rel="noopener">
-Prof. Dong-Kyu Chae
-</a>.
-My Ph.D. is supported by
-<a href="https://bk21four.nrf.re.kr/" target="_blank" rel="noopener">
-Brain Korea 21 (NRF)
-</a>.
-Previously, my Ph.D. was partially supported by Samsung Electronics.
-I was a research collaborator with Oracle, USA.
-Prior to joining Hanyang, I obtained a bachelor's degree in Electrical Engineering
-from
-<a href="https://aust.edu/" target="_blank" rel="noopener">
-AUST
-</a>
-in 2021.
+I am a Ph.D. Candidate in Computer Science at <a href="https://www.hanyang.ac.kr/web/eng" target="_blank" rel="noopener">Hanyang University</a>, working in the <a href="http://dilab.hanyang.ac.kr/" target="_blank" rel="noopener"> Data Intelligence Lab</a> with
+<a href="https://dkchae.github.io/" target="_blank" rel="noopener"> Prof. Dong-Kyu Chae</a>. My Ph.D. is supported by <a href="https://bk21four.nrf.re.kr/" target="_blank" rel="noopener">Brain Korea 21 (NRF)</a>. Previously, my Ph.D. was partially supported by Samsung Electronics. I was a research collaborator with Oracle, USA. Before joining Hanyang, I obtained a bachelor's degree in Electrical Engineering from <a href="https://aust.edu/" target="_blank" rel="noopener">AUST</a> in 2021.
 </p>
 
 <p>
