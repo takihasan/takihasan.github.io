@@ -10,7 +10,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <td markdown="span">
 **Learning from Unknown for Open-Set Test-Time Adaptation**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-WACV 2026 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br> 
+WACV 2026 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">TTA</span><br> 
 **[[paper]](https://openreview.net/pdf/af98ac058e5eea17dc4c9c94ba8969b358dabc9e.pdf)**
 </td>
 </tr>
@@ -20,7 +20,7 @@ WACV 2026 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radiu
 <td markdown="span">
 **Towards Robust Continual Test-Time Adaptation via Neighbor Filtration**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-CIKM 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br>
+CIKM 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">TTA</span><br>
 **[[paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3760858)**
 </td>
 </tr>
@@ -44,7 +44,7 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 <td markdown="span">
 **MVTamperBench: Evaluating Robustness of Vision-Language Models**  
 Amit Agarwal, Srikant Panda, Angeline Charles, Hitesh Laxmichand Patel, Bhargava Kumar, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Hansa Meghwani, Karan Gupta, Dong-Kyu Chae<br>
-ACL 2025 (Findings) <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">safety</span><br>
+ACL 2025 (Findings) <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Eval</span><br>
 **[[paper]](https://aclanthology.org/2025.findings-acl.963/)**
 </td>
 </tr>
@@ -54,7 +54,7 @@ ACL 2025 (Findings) <span style="background-color: #dfdaf7; padding: 3px 6px; bo
 <td markdown="span">
 **SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**  
 Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Dong-Kyu Chae<br>
-NAACL 2025 (Industry) <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">safety</span><br>
+NAACL 2025 (Industry) <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Eval</span><br>
 **[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
 </td>
 </tr>
@@ -64,7 +64,7 @@ NAACL 2025 (Industry) <span style="background-color: #dfdaf7; padding: 3px 6px; 
 <td markdown="span">
 **Instance-Aware Test-Time Adaptation for Domain Generalization**  
 <ins>Taki Hasan Rafi</ins>, Karlo Serbetar, Amit Agarwal, Hitesh L. Patel, Bhargava Kumar, Dong-Kyu Chae<br>
-DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">reliability</span><br>
+DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Eval</span><br>
 **[[paper]](https://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
 </td>
 </tr> -->
