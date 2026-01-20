@@ -48,10 +48,10 @@ More specifically, my Ph.D. research includes:
 takihasanrafi@gmail.com (Permanent)<br>
 <strong>Office</strong>: 709, R&amp;D Building-I, Hanyang University,
 222 Wangsimni-ro, Seongdong-gu, Seoul<br>
-<strong>CV</strong>:
+<!-- <strong>CV</strong>:
 <a href="https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view"
    target="_blank"
    rel="noopener">
 Link
-</a>
+</a> -->
 </p>
