@@ -1,23 +1,80 @@
-<img src="images/face.jpg" style="width: 180px; float: right" hspace="20"/>
+<img src="images/face.jpg"
+     alt="Taki Hasan Rafi"
+     style="width:180px; float:right; margin-left:20px;" />
 
-I am a Ph.D. Candidate in Computer Science at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, working in the <a href="http://dilab.hanyang.ac.kr/">Data Intelligence Lab</a> with <a href="https://dkchae.github.io/">Prof. Dong-Kyu Chae</a>. My Ph.D. is supported by <a href="https://bk21four.nrf.re.kr/">Brain Korea 21 (NRF)</a>. Previously, my Ph.D. was partially supported by Samsung Electronics. I was a research collaborator with Oracle, USA. Prior joining at Hanyang, I obtained a bachelor's degree in Electrical Engineering from <a href="https://aust.edu/">AUST</a> in 2021. My research primarily focuses on **Trustworthy AI**, aiming to build reliable, robust, and safe intelligent systems for variety of applications. More specifically, 
-<ul>Post-Training at Inference Time</ul>
-<ul>Test-Time Adaptation</ul>
-<ul>Distribution Shifts</ul>
-<ul>Evaluation of LLMs/VLMs</ul>
-<!-- Icons from fontawesome (Make less ugly later) -->
-<a style="color:black; text-decoration: none;"
-href="https://github.com/takihasan">
-<i class="fab fa-github" style="font-size:48px" href="https://github.com/tushar-n"></i>
-<a style="color:black; text-decoration: none;"
-href="https://www.linkedin.com/feed/">
-<i class="fab fa-linkedin" style="font-size:48px;"></i>
-<a style="color:black; text-decoration: none;"
-href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate">
-<i class="ai ai-google-scholar" style="font-size:48px;"></i>
+<p>
+I am a Ph.D. Candidate in Computer Science at
+<a href="https://www.hanyang.ac.kr/web/eng" target="_blank" rel="noopener">
+Hanyang University
+</a>,
+working in the
+<a href="http://dilab.hanyang.ac.kr/" target="_blank" rel="noopener">
+Data Intelligence Lab
+</a>
+with
+<a href="https://dkchae.github.io/" target="_blank" rel="noopener">
+Prof. Dong-Kyu Chae
+</a>.
+My Ph.D. is supported by
+<a href="https://bk21four.nrf.re.kr/" target="_blank" rel="noopener">
+Brain Korea 21 (NRF)
+</a>.
+Previously, my Ph.D. was partially supported by Samsung Electronics.
+I was a research collaborator with Oracle, USA.
+Prior to joining Hanyang, I obtained a bachelor's degree in Electrical Engineering
+from
+<a href="https://aust.edu/" target="_blank" rel="noopener">
+AUST
+</a>
+in 2021.
+</p>
 
-**Contact**: takihr@hanyang.ac.kr (Official) | takihasanrafi@gmail.com (Permanent)<br>
-**Office**: 709, R&D Building-I, Hanyang University, 222 Wangsimni-ro, Seongdong-gu, Seoul    
-**CV**: [Link](https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view)
+<p>
+My research primarily focuses on <strong>Trustworthy AI</strong>, aiming to build
+reliable, robust, and safe intelligent systems for a variety of applications.
+More specifically:
+</p>
 
+<ul>
+  <li>Post-Training at Inference Time</li>
+  <li>Test-Time Adaptation</li>
+  <li>Distribution Shifts</li>
+  <li>Evaluation of LLMs and VLMs</li>
+</ul>
 
+<!-- Social Icons -->
+<p>
+  <a href="https://github.com/takihasan"
+     target="_blank"
+     rel="noopener"
+     style="color:black; text-decoration:none;">
+    <i class="fab fa-github" style="font-size:48px;"></i>
+  </a>
+
+  <a href="https://www.linkedin.com/feed/"
+     target="_blank"
+     rel="noopener"
+     style="color:black; text-decoration:none; margin-left:10px;">
+    <i class="fab fa-linkedin" style="font-size:48px;"></i>
+  </a>
+
+  <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UAAAAJ&view_op=list_works&sortby=pubdate"
+     target="_blank"
+     rel="noopener"
+     style="color:black; text-decoration:none; margin-left:10px;">
+    <i class="ai ai-google-scholar" style="font-size:48px;"></i>
+  </a>
+</p>
+
+<p>
+<strong>Contact</strong>: takihr@hanyang.ac.kr (Official) |
+takihasanrafi@gmail.com (Permanent)<br>
+<strong>Office</strong>: 709, R&amp;D Building-I, Hanyang University,
+222 Wangsimni-ro, Seongdong-gu, Seoul<br>
+<strong>CV</strong>:
+<a href="https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view"
+   target="_blank"
+   rel="noopener">
+Link
+</a>
+</p>
