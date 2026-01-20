@@ -32,14 +32,13 @@ in 2021.
 <p>
 My research primarily focuses on <strong>Trustworthy AI</strong>, aiming to build
 reliable, robust, and safe intelligent systems for a variety of applications.
-More specifically:
+More specifically, my Ph.D. research includes:
 </p>
 
 <ul>
-  <li>Post-Training at Inference Time</li>
-  <li>Test-Time Adaptation</li>
-  <li>Distribution Shifts</li>
-  <li>Evaluation of LLMs and VLMs</li>
+  <li><b>Post-Training at Inference Time</b></li>
+  <li><b>Test-Time ML</b></li>
+  <li><b>Evaluation of LLMs and VLMs</b></li>
 </ul>
 
 <!-- Social Icons -->
