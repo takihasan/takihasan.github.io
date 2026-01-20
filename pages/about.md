@@ -37,7 +37,7 @@ More specifically, my Ph.D. research includes:
 
 <ul>
   <li><b>Post-Training at Inference Time</b></li>
-  <li><b>Test-Time ML</b></li>
+  <li><b>Test-Time Adaptation</b></li>
   <li><b>Evaluation of LLMs and VLMs</b></li>
 </ul>
 
