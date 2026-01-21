@@ -63,7 +63,7 @@ Amit Agarwal et al. <ins>(with Taki Hasan Rafi)</ins><br>
 <td class="img"> <img src="images/NAACL.png"> </td>
 <td markdown="span">
 **SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**  
-Hitesh Laxmichand Patelet al. <ins>(with Taki Hasan Rafi)</ins><br>
+Hitesh Laxmichand Patel et al. <ins>(with Taki Hasan Rafi)</ins><br>
 <span style="color:#c40000; font-weight:600;">NAACL 2025 (Industry)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
 </td>
