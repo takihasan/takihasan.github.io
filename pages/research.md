@@ -43,7 +43,7 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 <td class="img"> <img src="images/ACL.png"> </td>
 <td markdown="span">
 **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**  
-Samuel Cahyawijaya et al. <ins>(with Taki Hasan Rafi)</ins> 
+Samuel Cahyawijaya et al. <ins>(with Taki Hasan Rafi)</ins><br>
 🏆 <span style="color:#c40000; font-weight:600;">ACL 2025 (**Main, Oral**)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.acl-long.916/)**
 </td>
@@ -53,7 +53,7 @@ Samuel Cahyawijaya et al. <ins>(with Taki Hasan Rafi)</ins>
 <td class="img"> <img src="images/MV_ACL.png"> </td>
 <td markdown="span">
 **MVTamperBench: Evaluating Robustness of Vision-Language Models**  
-Amit Agarwal, Srikant Panda, Angeline Charles, Hitesh Laxmichand Patel, Bhargava Kumar, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Hansa Meghwani, Karan Gupta, Dong-Kyu Chae<br>
+Amit Agarwal et al. <ins>(with Taki Hasan Rafi)</ins><br>
 <span style="color:#c40000; font-weight:600;">ACL 2025 (Findings)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.findings-acl.963/)**
 </td>
@@ -63,11 +63,31 @@ Amit Agarwal, Srikant Panda, Angeline Charles, Hitesh Laxmichand Patel, Bhargava
 <td class="img"> <img src="images/NAACL.png"> </td>
 <td markdown="span">
 **SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**  
-Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Dong-Kyu Chae<br>
+Hitesh Laxmichand Patelet al. <ins>(with Taki Hasan Rafi)</ins><br>
 <span style="color:#c40000; font-weight:600;">NAACL 2025 (Industry)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
 </td>
 </tr>
+
+<!-- <tr>
+<td class="img"> <img src="images/MV_ACL.png"> </td>
+<td markdown="span">
+**MVTamperBench: Evaluating Robustness of Vision-Language Models**  
+Amit Agarwal, Srikant Panda, Angeline Charles, Hitesh Laxmichand Patel, Bhargava Kumar, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Hansa Meghwani, Karan Gupta, Dong-Kyu Chae<br>
+<span style="color:#c40000; font-weight:600;">ACL 2025 (Findings)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
+**[[paper]](https://aclanthology.org/2025.findings-acl.963/)**
+</td>
+</tr> -->
+
+<!-- <tr>
+<td class="img"> <img src="images/NAACL.png"> </td>
+<td markdown="span">
+**SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**  
+Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda, Priyaranjan Pattnayak, <ins>Taki Hasan Rafi</ins>, Tejaswini Kumar, Dong-Kyu Chae<br>
+<span style="color:#c40000; font-weight:600;">NAACL 2025 (Industry)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
+**[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
+</td>
+</tr> -->
 
 <!-- <tr>
 <td class="img"> <img src="images/DASFAA.png"> </td>
