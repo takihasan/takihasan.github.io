@@ -10,7 +10,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <td markdown="span">
 **Learning from Unknown for Open-Set Test-Time Adaptation**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-🏆 <span style="color:#c40000; font-weight:600;">WACV 2026 (Oral)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+🏆 <span style="color:#c40000; font-weight:600;">WACV 2026 (Oral, Top 7%)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://openreview.net/pdf/af98ac058e5eea17dc4c9c94ba8969b358dabc9e.pdf)**
 </td>
 </tr>
