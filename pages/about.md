@@ -48,6 +48,10 @@ More specifically, my Ph.D. research includes:
 takihasanrafi@gmail.com (Permanent)<br>
 <strong>Office</strong>: 709, R&amp;D Building-I, Hanyang University,
 222 Wangsimni-ro, Seongdong-gu, Seoul 04763<br>
+
+<p>
+<b>Call For Papers:</b> GRAIL-V Workshop at CVPR 2026! More details: <a href="https://grailworkshops.github.io/" target="_blank" rel="noopener">https://grailworkshops.github.io/</a>, please consider submitting your work on multimodal retrieval, agentic planning, generative handling, and more!  
+</p>
 <!-- <strong>CV</strong>:
 <a href="https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view"
 
@@ -56,6 +60,4 @@ takihasanrafi@gmail.com (Permanent)<br>
 Link
 </a> -->
 </p>
-<p>
-     <b>Call For Papers:</b> GRAIL-V Workshop at CVPR 2026! More details: <a href="https://grailworkshops.github.io/" target="_blank" rel="noopener">https://grailworkshops.github.io/</a> , please consider submitting your work on multimodal retrieval, agentic planning, generative handling, and more!  
-</p>
+
