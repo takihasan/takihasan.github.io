@@ -50,10 +50,12 @@ takihasanrafi@gmail.com (Permanent)<br>
 222 Wangsimni-ro, Seongdong-gu, Seoul 04763<br>
 <!-- <strong>CV</strong>:
 <a href="https://drive.google.com/file/d/1miinjOMENUtYC8V5BkAOBL7BGKWuotSb/view"
-<p>
-     <b>Call For Papers:</b> GRAIL-V Workshop at CVPR 2026! More details: <a href="https://grailworkshops.github.io/" target="_blank" rel="noopener">https://grailworkshops.github.io/</a> , please consider submitting your work on multimodal retrieval, agentic planning, generative handling, and more!  
+
    target="_blank"
    rel="noopener">
 Link
 </a> -->
+</p>
+<p>
+     <b>Call For Papers:</b> GRAIL-V Workshop at CVPR 2026! More details: <a href="https://grailworkshops.github.io/" target="_blank" rel="noopener">https://grailworkshops.github.io/</a> , please consider submitting your work on multimodal retrieval, agentic planning, generative handling, and more!  
 </p>
