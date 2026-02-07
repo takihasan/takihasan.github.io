@@ -14,7 +14,8 @@ More specifically, my Ph.D. research includes:
 </p>
 
 <ul>
-  <li><b>Efficient & Long-Context Models</b></li>
+  <li><b>Long-Context Visual Models</b></li>
+  <li><b>Efficient Post-Training</b></li>
   <li><b>Test-Time Adaptation</b></li>
   <li><b>Evaluation of LLMs and VLMs</b></li>
 </ul>
