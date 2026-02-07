@@ -16,8 +16,8 @@ More specifically, my Ph.D. research includes:
 <ul>
   <li><b>Long-Context Visual Models</b></li>
   <li><b>Efficient Post-Training</b></li>
-  <li><b>Test-Time Adaptation</b></li>
-  <li><b>Evaluation of LLMs and VLMs</b></li>
+  <li><b>Test-Time Adaptation:</b> [WACV'26 (Oral), CIKM'25]</li>
+  <li><b>Evaluation of LLMs and VLMs:</b> [ACL'25a, ACL'25b, NAACL'25]</li>
 </ul>
 
 <!-- Social Icons -->
