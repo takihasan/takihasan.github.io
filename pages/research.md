@@ -9,8 +9,8 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <td class="img"> <img src="images/CTTA.png"> </td>
 <td markdown="span">
 **Continual Test-Time Adaptation: A Comprehensive Survey**  
-Sarthak Kumar Maharana*, Shambhavi Mishra*, Yunbei Zhang*, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo (*=Equal Contributions)<br>
-🏆 <span style="color:#c40000; font-weight:600;">TMLR (Under Review)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
+<span style="color:#c40000; font-weight:600;">TMLR (Under Review)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]]()**
 </td>
 </tr>
