@@ -5,7 +5,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <table class="researchtable">
 <tbody>
 
-<tr>
+<!-- <tr>
 <td class="img"> <img src="images/CTTA.png"> </td>
 <td markdown="span">
 **Continual Test-Time Adaptation: A Comprehensive Survey**  
@@ -13,7 +13,7 @@ Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Tak
 <span style="color:#c40000; font-weight:600;">TMLR (Under Review)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]]()**
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td class="img"> <img src="images/WACV.png"> </td>
