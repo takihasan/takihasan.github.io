@@ -20,7 +20,7 @@ Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Tak
 <td markdown="span">
 **Learning from Unknown for Open-Set Test-Time Adaptation**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-🏆 <span style="color:#c40000; font-weight:600;">WACV 2026 (Oral)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+🏆 <span style="color:#c40000; font-weight:600;">WACV 2026 (Oral, 85/2550 ~ A/R: 3%)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://openreview.net/pdf/af98ac058e5eea17dc4c9c94ba8969b358dabc9e.pdf)**
 </td>
 </tr>
