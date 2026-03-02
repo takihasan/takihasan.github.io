@@ -12,13 +12,21 @@ My research primarily focuses on <strong>Trustworthy AI</strong>, aiming to buil
 reliable, robust, and safe intelligent systems for a variety of applications.
 More specifically, my Ph.D. research includes:
 </p>
-
 <ul>
-  <li><b>Efficient Post-Training</b></li>
-  <li><b>Test-Time Adaptation [<p style="color: blue;">WACV'26 (Oral), CIKM'25</p>]</b></li>
-  <li><b>Evaluation of LLMs and VLMs [<p style="color: blue;">ACL'25a (Oral), ACL'25b, NAACL'25</p>]</b></li>
-</ul>
+  <li>
+    <b>Efficient Post-Training</b>
+  </li>
 
+  <li>
+    <b>Test-Time Adaptation</b> 
+    <span style="color: blue;">[WACV'26 (Oral), CIKM'25]</span>
+  </li>
+
+  <li>
+    <b>Evaluation of LLMs and VLMs</b> 
+    <span style="color: blue;">[ACL'25a (Oral), ACL'25b, NAACL'25]</span>
+  </li>
+</ul>
 <!-- Social Icons -->
 <p>
   <a href="https://github.com/takihasan"
