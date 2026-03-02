@@ -30,7 +30,7 @@ Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Tak
 <td markdown="span">
 **Towards Robust Continual Test-Time Adaptation via Neighbor Filtration**  
 <ins>Taki Hasan Rafi</ins>, Amit Agarwal, Hitesh L. Patel, Dong-Kyu Chae<br>
-<span style="color:#c40000; font-weight:600;">CIKM 2025 (Short)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br>
+<span style="color:#c40000; font-weight:600;">CIKM 2025 (185/604 ~ A/R: 30.6%)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br>
 **[[paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3760858)**
 </td>
 </tr>
