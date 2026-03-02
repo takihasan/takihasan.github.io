@@ -15,8 +15,8 @@ More specifically, my Ph.D. research includes:
 
 <ul>
   <li><b>Efficient Post-Training</b></li>
-  <li><b>Test-Time Adaptation [WACV'26 (Oral), CIKM'25]</b></li>
-  <li><b>Evaluation of LLMs and VLMs [ACL'25a (Oral), ACL'25b, NAACL'25]</b></li>
+  <li><b>Test-Time Adaptation [<p style="color: blue;">WACV'26 (Oral), CIKM'25</p>]</b></li>
+  <li><b>Evaluation of LLMs and VLMs [<p style="color: blue;">ACL'25a (Oral), ACL'25b, NAACL'25</p>]</b></li>
 </ul>
 
 <!-- Social Icons -->
