@@ -4,7 +4,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 
 <table class="researchtable">
 <tbody>
-<tr>
+<!-- <tr>
 <td class="img"> <img src="images/Mask.png"> </td>
 <td markdown="span">
 **Family Matters: A Systematic Study of Spatial vs. Frequency Masking for Continual Test-Time Adaptation**  
@@ -22,7 +22,7 @@ Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Tak
 <span style="color:#c40000; font-weight:600;">ArXiv 2026b</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://zenodo.org/records/18665186)**
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td class="img"> <img src="images/WACV.png"> </td>
