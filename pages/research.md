@@ -5,7 +5,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <table class="researchtable">
 <tbody>
 <tr>
-<td class="img"> <img src="images/CTTA.png"> </td>
+<td class="img"> <img src="images/Mask.png"> </td>
 <td markdown="span">
 **Family Matters: A Systematic Study of Spatial vs. Frequency Masking for Continual Test-Time Adaptation**  
 Chandler Timm C. Doloriel, Yunbei Zhang, Yeonguk Yu,  <ins>Taki Hasan Rafi</ins>, Muhammad Salman Siddiqui, Tor Kristian Stevik, Habib Ullah, Fadi Al Machot, Kristian Hovde Liland<br>
