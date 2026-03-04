@@ -19,7 +19,7 @@ More specifically, my Ph.D. research includes:
 
   <li>
     <b>Test-Time Adaptation</b> 
-    <span style="color: blue;">[ArXiv'26a, ArXiv'26b, WACV'26 (Oral), CIKM'25]</span>
+    <span style="color: blue;">[WACV'26 (Oral), CIKM'25]</span>
   </li>
 
   <li>
