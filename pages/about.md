@@ -8,7 +8,7 @@ I am a Ph.D. Candidate in Computer Science at <a href="https://www.hanyang.ac.kr
 </p>
 
 <p>
-My research primarily focuses on <strong>Trustworthy AI</strong>, aiming to build
+My research primarily focuses on <strong>Trustworthy AI</strong>, aiming to build efficient,
 reliable, robust, and safe intelligent systems for a variety of applications.
 More specifically, my Ph.D. research includes:
 </p>
