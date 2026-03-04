@@ -9,7 +9,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <td markdown="span">
 **Family Matters: A Systematic Study of Spatial vs. Frequency Masking for Continual Test-Time Adaptation**  
 Chandler Timm C. Doloriel, Yunbei Zhang, Yeonguk Yu,  <ins>Taki Hasan Rafi</ins>, Muhammad Salman Siddiqui, Tor Kristian Stevik, Habib Ullah, Fadi Al Machot, Kristian Hovde Liland<br>
-<span style="color:#c40000; font-weight:600;">ArXiv</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+<span style="color:#c40000; font-weight:600;">ArXiv 2026a</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://arxiv.org/html/2512.08048v2)**
 </td>
 </tr>
@@ -19,7 +19,7 @@ Chandler Timm C. Doloriel, Yunbei Zhang, Yeonguk Yu,  <ins>Taki Hasan Rafi</ins>
 <td markdown="span">
 **Continual Test-Time Adaptation: A Comprehensive Survey**  
 Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
-<span style="color:#c40000; font-weight:600;">ArXiv</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+<span style="color:#c40000; font-weight:600;">ArXiv 2026b</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://zenodo.org/records/18665186)**
 </td>
 </tr>
