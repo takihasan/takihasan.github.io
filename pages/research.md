@@ -4,6 +4,17 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 
 <table class="researchtable">
 <tbody>
+
+<tr>
+<td class="img"> <img src="images/CTTA.png"> </td>
+<td markdown="span">
+**Continual Test-Time Adaptation: A Comprehensive Survey**  
+Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
+<span style="color:#c40000; font-weight:600;">ArXiv 2026b</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+**[[paper]](https://www.preprints.org/frontend/manuscript/e4460dc2244544474f8edd7a1ebb3568/download_pub)**
+</td>
+</tr>
+
 <tr>
 <td class="img"> <img src="images/Mask.png"> </td>
 <td markdown="span">
@@ -14,15 +25,7 @@ Chandler Timm C. Doloriel, Yunbei Zhang, Yeonguk Yu,  <ins>Taki Hasan Rafi</ins>
 </td>
 </tr>
   
-<tr>
-<td class="img"> <img src="images/CTTA.png"> </td>
-<td markdown="span">
-**Continual Test-Time Adaptation: A Comprehensive Survey**  
-Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
-<span style="color:#c40000; font-weight:600;">ArXiv 2026b</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
-**[[paper]](https://www.preprints.org/frontend/manuscript/e4460dc2244544474f8edd7a1ebb3568/download_pub)**
-</td>
-</tr>
+
 
 <tr>
 <td class="img"> <img src="images/WACV.png"> </td>
