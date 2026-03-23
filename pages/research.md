@@ -20,7 +20,7 @@ Chandler Timm C. Doloriel, Yunbei Zhang, Yeonguk Yu,  <ins>Taki Hasan Rafi</ins>
 **Continual Test-Time Adaptation: A Comprehensive Survey**  
 Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
 <span style="color:#c40000; font-weight:600;">ArXiv 2026b</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
-**[[paper]](https://zenodo.org/records/18665186)**
+**[[paper]](https://www.preprints.org/frontend/manuscript/e4460dc2244544474f8edd7a1ebb3568/download_pub)**
 </td>
 </tr>
 
