@@ -61,7 +61,7 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 </td>
 </tr> -->
 
-<tr>
+<!-- <tr>
 <td class="img"> <img src="images/ACL.png"> </td>
 <td markdown="span">
 **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**  
@@ -89,7 +89,7 @@ Hitesh Laxmichand Patel et al. <ins>(with Taki Hasan Rafi)</ins><br>
 <span style="color:#c40000; font-weight:600;">NAACL 2025 (Industry)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
 </td>
-</tr>
+</tr> -->
 
 <!-- <tr>
 <td class="img"> <img src="images/MV_ACL.png"> </td>
@@ -111,7 +111,7 @@ Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda,
 </td>
 </tr> -->
 
-<!-- <tr>
+<tr>
 <td class="img"> <img src="images/DASFAA.png"> </td>
 <td markdown="span">
 **Instance-Aware Test-Time Adaptation for Domain Generalization**  
@@ -119,7 +119,7 @@ Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda,
 DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Eval</span><br>
 **[[paper]](https://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
 </td>
-</tr> -->
+</tr>
 
 </tbody>
 </table>
