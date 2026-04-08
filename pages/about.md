@@ -19,13 +19,10 @@ More specifically, my Ph.D. research includes:
 
   <li>
     <b>Test-Time Adaptation</b> 
-    <span style="color: blue;">[ArXiv 2026a, ArXiv 2026b, WACV'26 (Oral), CIKM'25]</span>
+    <span style="color: blue;">[ArXiv 2026a, ArXiv 2026b, WACV'26 (Oral), CIKM'25, DASFAA'25]</span>
   </li>
 
-  <li>
-    <b>Evaluation of LLMs and VLMs</b> 
-    <span style="color: blue;">[ACL'25a (Oral), ACL'25b, NAACL'25]</span>
-  </li>
+  
 </ul>
 <!-- Social Icons -->
 <p>
