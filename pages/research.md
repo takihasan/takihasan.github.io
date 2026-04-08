@@ -116,7 +116,7 @@ Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda,
 <td markdown="span">
 **Instance-Aware Test-Time Adaptation for Domain Generalization**  
 <ins>Taki Hasan Rafi</ins>, Karlo Serbetar, Amit Agarwal, Hitesh L. Patel, Bhargava Kumar, Dong-Kyu Chae<br>
-DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Eval</span><br>
+DASFAA 2025 <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br>
 **[[paper]](https://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
 </td>
 </tr>
