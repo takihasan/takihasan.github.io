@@ -8,15 +8,15 @@ I am a Ph.D. Candidate in Computer Science at <a href="https://www.hanyang.ac.kr
 </p>
 
 <p>
-I am interested in building adaptive and trustworthy machine learning systems that remain reliable under real-world distribution shifts. My work focuses on enabling models to generalize beyond static training settings and operate effectively in dynamic, open-world environments.
+I am interested in building adaptive and trustworthy machine learning systems that remain reliable under real-world distribution shifts. My work focuses on enabling models to generalize beyond static training settings and operate effectively in dynamic, open-world environments.<br>
 
-<b>Test-Time Adaptation:</b> How models can adapt at inference time without access to source data, particularly under long-tailed, open-set, and continually shifting distributions. I am interested in designing confidence-aware adaptation, memory-driven learning, and energy-based objectives that improve robustness while maintaining stability. My work also explores pseudo-label reliability, out-of-distribution detection, and instance-level adaptation mechanisms.
+<b>Test-Time Adaptation:</b> How models can adapt at inference time without access to source data, particularly under long-tailed, open-set, and continually shifting distributions. I am interested in designing confidence-aware adaptation, memory-driven learning, and energy-based objectives that improve robustness while maintaining stability. My work also explores pseudo-label reliability, out-of-distribution detection, and instance-level adaptation mechanisms.<br>
 
-<b> Multi-Context Evaluation:</b> I investigate bias, robustness, and safety, particularly in multilingual and culturally diverse settings. I am interested in building evaluation benchmarks and datasets that capture real-world complexity, including commonsense reasoning, fairness, and cultural alignment.
+<b> Multi-Context Evaluation:</b> I investigate bias, robustness, and safety, particularly in multilingual and culturally diverse settings. I am interested in building evaluation benchmarks and datasets that capture real-world complexity, including commonsense reasoning, fairness, and cultural alignment. <br>
 
 <b> Privacy-Preserving Systems:</b> How to handle heterogeneous data, client imbalance, and unreliable participation in large-scale distributed settings. My goal is to develop adaptive aggregation, trust-aware optimization, and personalized learning strategies that scale to real-world deployments.
 
-<b> Graph-Based Learning:</b> I am additionally interested in graph-based learning and structured representation learning, especially for problems involving relational reasoning and complex dependencies. My work explores how graph representations can improve generalization in domains such as knowledge modeling and interaction prediction.
+<b> Graph-Based Learning:</b> I am additionally interested in graph-based learning and structured representation learning, especially for problems involving relational reasoning and complex dependencies. My work explores how graph representations can improve generalization in domains such as knowledge modeling and interaction prediction. <br>
 </p>
 
 <!-- Social Icons -->
