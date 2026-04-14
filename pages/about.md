@@ -8,22 +8,17 @@ I am a Ph.D. Candidate in Computer Science at <a href="https://www.hanyang.ac.kr
 </p>
 
 <p>
-My research primarily focuses on <strong>Trustworthy AI</strong>, aiming to build efficient,
-reliable, robust, and safe intelligent systems for a variety of applications.
-More specifically, my Ph.D. research includes:
+I am interested in building adaptive and trustworthy machine learning systems that remain reliable under real-world distribution shifts. My work focuses on enabling models to generalize beyond static training settings and operate effectively in dynamic, open-world environments.
+
+<b>Test-Time Adaptation</b>: How models can adapt at inference time without access to source data, particularly under long-tailed, open-set, and continually shifting distributions. I am interested in designing confidence-aware adaptation, memory-driven learning, and energy-based objectives that improve robustness while maintaining stability. My work also explores pseudo-label reliability, out-of-distribution detection, and instance-level adaptation mechanisms.
+
+<b> Multi-Context Evaluation:</b> I investigate bias, robustness, and safety, particularly in multilingual and culturally diverse settings. I am interested in building evaluation benchmarks and datasets that capture real-world complexity, including commonsense reasoning, fairness, and cultural alignment.
+
+<b> Privacy-Preserving Systems:</b> How to handle heterogeneous data, client imbalance, and unreliable participation in large-scale distributed settings. My goal is to develop adaptive aggregation, trust-aware optimization, and personalized learning strategies that scale to real-world deployments.
+
+<b> Graph-Based Learning:</b> I am additionally interested in graph-based learning and structured representation learning, especially for problems involving relational reasoning and complex dependencies. My work explores how graph representations can improve generalization in domains such as knowledge modeling and interaction prediction.
 </p>
-<ul>
-  <li>
-    <b>Efficient Post-Training</b>
-  </li>
 
-  <li>
-    <b>Test-Time Adaptation</b> 
-    <span style="color: blue;">[ArXiv 2026a, ArXiv 2026b, WACV'26 (Oral), CIKM'25, DASFAA'25]</span>
-  </li>
-
-  
-</ul>
 <!-- Social Icons -->
 <p>
   <a href="https://github.com/takihasan"
