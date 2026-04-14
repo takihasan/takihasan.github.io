@@ -14,7 +14,7 @@ I am interested in building adaptive and trustworthy machine learning systems th
 
 <b> Multi-Context Evaluation:</b> I investigate bias, robustness, and safety, particularly in multilingual and culturally diverse settings. I am interested in building evaluation benchmarks and datasets that capture real-world complexity, including commonsense reasoning, fairness, and cultural alignment. <br>
 
-<b> Privacy-Preserving Systems:</b> How to handle heterogeneous data, client imbalance, and unreliable participation in large-scale distributed settings. My goal is to develop adaptive aggregation, trust-aware optimization, and personalized learning strategies that scale to real-world deployments.
+<b> Privacy-Preserving Systems:</b> How to handle heterogeneous data, client imbalance, and unreliable participation in large-scale distributed settings. My goal is to develop adaptive aggregation, trust-aware optimization, and personalized learning strategies that scale to real-world deployments. <br>
 
 <b> Graph-Based Learning:</b> I am additionally interested in graph-based learning and structured representation learning, especially for problems involving relational reasoning and complex dependencies. My work explores how graph representations can improve generalization in domains such as knowledge modeling and interaction prediction. <br>
 </p>
