@@ -10,7 +10,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <td markdown="span">
 **Continual Test-Time Adaptation: A Comprehensive Survey**  
 Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
-<span style="color:#c40000; font-weight:600;">ArXiv 2026b</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+<span style="color:#c40000; font-weight:600;">Transactions on Machine Learning Research (TMLR)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://www.preprints.org/frontend/manuscript/e4460dc2244544474f8edd7a1ebb3568/download_pub)**
 </td>
 </tr>
@@ -61,7 +61,7 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 </td>
 </tr> -->
 
- <tr>
+<!-- <tr>
 <td class="img"> <img src="images/ACL.png"> </td>
 <td markdown="span">
 **Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**  
@@ -69,9 +69,9 @@ Samuel Cahyawijaya et al. <ins>(with Taki Hasan Rafi)</ins><br>
 🏆 <span style="color:#c40000; font-weight:600;">ACL 2025 (**Main, Oral**)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.acl-long.916/)**
 </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td class="img"> <img src="images/MV_ACL.png"> </td>
 <td markdown="span">
 **MVTamperBench: Evaluating Robustness of Vision-Language Models**  
@@ -79,9 +79,9 @@ Amit Agarwal et al. <ins>(with Taki Hasan Rafi)</ins><br>
 <span style="color:#c40000; font-weight:600;">ACL 2025 (Findings)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.findings-acl.963/)**
 </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td class="img"> <img src="images/NAACL.png"> </td>
 <td markdown="span">
 **SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use**  
@@ -89,7 +89,7 @@ Hitesh Laxmichand Patel et al. <ins>(with Taki Hasan Rafi)</ins><br>
 <span style="color:#c40000; font-weight:600;">NAACL 2025 (Industry)</span> <span style="background-color: #dfdaf7; padding: 3px 6px; border-radius: 4px;">Evaluation</span><br>
 **[[paper]](https://aclanthology.org/2025.naacl-industry.46/)**
 </td>
-</tr> 
+</tr>  -->
 
 <!-- <tr>
 <td class="img"> <img src="images/MV_ACL.png"> </td>
@@ -111,7 +111,7 @@ Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda,
 </td>
 </tr> -->
 
-<tr>
+<!-- <tr>
 <td class="img"> <img src="images/DASFAA.png"> </td>
 <td markdown="span">
 **Instance-Aware Test-Time Adaptation for Domain Generalization**  
@@ -119,7 +119,7 @@ Hitesh Laxmichand Patel, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda,
  <span style="color:#c40000; font-weight:600;"> DASFAA 2025 (236/731 ~ A/R: 32.3%)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br>
 **[[paper]](https://drive.google.com/file/d/1gYivEPurxdJsFlMh-o_X1Va6sns--vq6/view)**
 </td>
-</tr>
+</tr> -->
 
 </tbody>
 </table>
