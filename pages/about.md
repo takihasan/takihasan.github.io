@@ -8,7 +8,7 @@ I am a Ph.D. Candidate in Computer Science at <a href="https://www.hanyang.ac.kr
 </p>
 
 <p>
-My research broadly solves challenges in trustworthy ML. Particularly, test-time adaptation, where the model adapts to an unseen distribution. Specifically, my research answers the following questions: (1) How does the model understand a dynamic test stream? (2) How robust are the model dynamics under open-world settings? (3) How do models handle corrupted and noisy data during testing under diverse settings? (4) How does the production industry utilize reliable ML frameworks effectively? 
+My research broadly solves challenges in trustworthy ML. Particularly, test-time adaptation, where the model adapts to an unseen distribution. Specifically, my research answers the following questions: (1) How does the model understand a dynamic test stream? (2) How robust are the model dynamics under open-world settings? (3) How do models handle corrupted and noisy data during testing under diverse settings? (4) How can the production industry effectively utilize reliable ML frameworks? 
      
 <!-- I am interested in building adaptive and trustworthy machine learning systems that remain reliable under real-world distribution shifts. My work focuses on enabling models to generalize beyond static training settings and operate effectively in dynamic, open-world environments.<br>
 
