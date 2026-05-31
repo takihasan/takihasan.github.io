@@ -20,7 +20,7 @@ Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Tak
 <td markdown="span">
 **Family Matters: A Systematic Study of Spatial vs. Frequency Masking for Continual Test-Time Adaptation**  
 Chandler Timm C. Doloriel, Yunbei Zhang, Yeonguk Yu,  <ins>Taki Hasan Rafi</ins>, Muhammad Salman Siddiqui, Tor Kristian Stevik, Habib Ullah, Fadi Al Machot, Kristian Hovde Liland<br>
-<span style="color:#c40000; font-weight:600;">ArXiv 2026a</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
+<span style="color:#c40000; font-weight:600;">Transactions on Machine Learning Research (TMLR)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://arxiv.org/html/2512.08048v2)**
 </td>
 </tr>
