@@ -8,7 +8,7 @@ Full List is <a href="https://scholar.google.co.in/citations?hl=en&user=L5K8I1UA
 <tr>
 <td class="img"> <img src="images/CTTA.png"> </td>
 <td markdown="span">
-**Continual Test-Time Adaptation: A Comprehensive Survey**  
+**Continual Test-Time Adaptation in Computer Vision: Methods, Benchmarks, and Future Directions**  
 Sarthak Kumar Maharana, Shambhavi Mishra, Yunbei Zhang, Shuaicheng Niu, <ins>Taki Hasan Rafi</ins>, Jihun Hamm, Marco Pedersoli, Jose Dolz, Yunhui Guo<br>
 <span style="color:#c40000; font-weight:600;">Transactions on Machine Learning Research (TMLR)</span> <span style="background-color: #d7e7fb; padding: 3px 6px; border-radius: 4px;">Test-Time</span><br> 
 **[[paper]](https://www.preprints.org/frontend/manuscript/e4460dc2244544474f8edd7a1ebb3568/download_pub)**
