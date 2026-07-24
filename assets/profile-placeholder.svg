@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Add your profile photo</title>
+  <desc id="desc">A placeholder showing where to add a portrait photograph.</desc>
+  <rect width="600" height="600" fill="#edf4ff"/>
+  <circle cx="300" cy="220" r="105" fill="#9bb9e7"/>
+  <path d="M105 560c16-133 89-211 195-211s179 78 195 211" fill="#9bb9e7"/>
+  <text x="300" y="545" fill="#174ea6" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">ADD YOUR PHOTO</text>
+</svg>
