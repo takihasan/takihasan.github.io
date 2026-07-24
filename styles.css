@@ -1,0 +1,318 @@
+/* Minimal academic website styling */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #fff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+a {
+  color: #0000ee;
+  text-decoration: underline;
+}
+
+.container {
+  width: auto;
+  max-width: none;
+  margin: 0;
+  padding: 0 8px;
+}
+
+/* Keep navigation extremely simple. */
+.site-header {
+  border-bottom: 1px solid #aaa;
+  background: #fff;
+}
+
+.nav-wrap {
+  min-height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+}
+
+.brand {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+nav a {
+  color: #000;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* Plain two-column introduction with a replaceable photo. */
+.hero {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+  padding-top: 22px;
+}
+
+.profile-card {
+  padding: 0;
+  text-align: left;
+}
+
+.profile-card img {
+  display: block;
+  width: 160px;
+  height: 180px;
+  margin: 0 0 10px;
+  object-fit: cover;
+  border: 1px solid #999;
+  border-radius: 0;
+}
+
+.profile-card h1 {
+  margin: 0 0 7px;
+  font-size: 21px;
+}
+
+.profile-card p {
+  margin: 3px 0;
+  font-size: 14px;
+}
+
+.profile-card .role {
+  font-weight: bold;
+}
+
+.profile-links {
+  margin-top: 8px;
+}
+
+.profile-links a {
+  display: block;
+  padding: 0;
+  color: #0000ee;
+  font-size: 14px;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.eyebrow {
+  display: none;
+}
+
+h2 {
+  margin: 0 0 16px;
+  padding-bottom: 16px;
+  font-size: 15px;
+  line-height: 1.2;
+  border-bottom: 1px solid #999;
+}
+
+h3,
+h4 {
+  line-height: 1.2;
+}
+
+.intro .lead,
+.intro > p {
+  max-width: none;
+  margin: 0 0 16px;
+  color: #000;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.highlights {
+  margin: 22px 0 0;
+  padding: 0;
+  background: transparent;
+  border: 0;
+}
+
+.highlights h3 {
+  margin: 0 0 16px;
+  padding-bottom: 16px;
+  font-size: 15px;
+  border-bottom: 1px solid #999;
+}
+
+.highlights ul {
+  margin: 0 0 24px;
+  padding-left: 40px;
+}
+
+.content-grid {
+  padding: 0 8px;
+}
+
+.section-card {
+  margin: 0 0 24px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+}
+
+.section-card h2,
+.publications-section h2 {
+  font-size: 15px;
+}
+
+.tags {
+  display: block;
+  margin: 0 0 24px;
+  padding-left: 40px;
+}
+
+.tags span {
+  display: list-item;
+  width: fit-content;
+  padding: 0;
+  color: #000;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 130px minmax(0, 1fr);
+  gap: 16px;
+  margin-left: 24px;
+  padding: 0 0 12px;
+  border: 0;
+}
+
+.timeline-item .date {
+  color: #000;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.timeline-item h3 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.timeline-item p {
+  margin: 2px 0;
+  color: #000;
+  font-size: 15px;
+}
+
+.publications-section {
+  margin: 0;
+  padding: 0 0 25px;
+  background: transparent;
+  border: 0;
+}
+
+.year-heading {
+  margin: 10px 0 14px;
+  padding: 0;
+  color: #000;
+  font-size: 16px;
+  border: 0;
+}
+
+.publication-list {
+  display: block;
+  margin: 0 0 24px;
+  padding-left: 40px;
+}
+
+.publication-list li {
+  margin: 0 0 12px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.publication-list h4 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.publication-list p {
+  margin: 0;
+  color: #000;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.publication-list u {
+  color: #000;
+  font-weight: normal;
+}
+
+.venue {
+  display: inline;
+  padding: 0;
+  color: #000 !important;
+  background: transparent !important;
+  border-radius: 0;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+footer {
+  padding: 10px 8px;
+  color: #000;
+  background: #fff;
+  border-top: 1px solid #999;
+}
+
+footer .container {
+  display: block;
+  padding: 0;
+}
+
+footer p {
+  margin: 2px 0;
+  font-size: 13px;
+}
+
+@media (max-width: 700px) {
+  .nav-wrap {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 8px;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .profile-card img {
+    width: 140px;
+    height: 160px;
+  }
+
+  .timeline-item {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+}
